@@ -908,7 +908,7 @@ A curated list of awesome Shell frameworks, libraries and software.
 * [matsubo/matsu-shell-setting](https://github.com/matsubo/matsu-shell-setting) - My shell setting.
 * [matiaskorhonen/shells3](https://github.com/matiaskorhonen/shells3) - A small(ish) shell script to upload files to S3 from the command line
 * [lzap/systemd-shortcuts](https://github.com/lzap/systemd-shortcuts) - Shell shortcuts for systemd with aliases
-* [kdabir/dq](https://github.com/kdabir/dq) - Tells how developer friendly your machine is, by checking what all is installed
+* [kdabir/has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 * [jmmv/shtk](https://github.com/jmmv/shtk) - Application toolkit for programmers writing POSIX-compliant shell scripts
 * [jimye/OfficeUninstall](https://github.com/jimye/OfficeUninstall) - A shell scirpt to deep uninstall Microsoft Office for Mac 2011/2016
 * [hmage/norm](https://github.com/hmage/norm) - Rootless installer
