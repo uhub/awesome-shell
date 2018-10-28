@@ -2216,6 +2216,7 @@ A curated list of awesome Shell frameworks, libraries and software.
 * [wppurking/ocserv-docker](https://github.com/wppurking/ocserv-docker) - 用于初始化 ocserv 的 Dockfile 脚本
 * [taigaio/taiga-scripts](https://github.com/taigaio/taiga-scripts) - Taiga deploy scripts
 * [neurocyte/ghc-android](https://github.com/neurocyte/ghc-android) - Build scripts for building ghc cross compilers targeting Android
+* [torokmark/assert.sh](https://github.com/torokmark/assert.sh) - Assertion lib for shell script users
 * [lehmannro/assert.sh](https://github.com/lehmannro/assert.sh) - bash unit testing framework
 * [fgrehm/devstep](https://github.com/fgrehm/devstep) - Development environments powered by Docker and buildpacks
 * [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Tool to install ADB and Fastboot on Mac OS X and Linux.
