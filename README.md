@@ -3,67 +3,67 @@
 A curated list of awesome Shell frameworks, libraries and software.
 
 * [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-* [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 * [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+* [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 * [Neilpang/acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol
 * [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 * [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-* [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
 * [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Debian, Ubuntu and CentOS
+* [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
 * [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 * [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
-* [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
 * [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
+* [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
 * [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-* [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 * [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
+* [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 * [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
-* [holman/spark](https://github.com/holman/spark) -  ▁▂▃▅▂▇ in your shell.
 * [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
+* [holman/spark](https://github.com/holman/spark) -  ▁▂▃▅▂▇ in your shell.
 * [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - This is now the official location of the Kaldi project.
 * [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 * [spotify/docker-gc](https://github.com/spotify/docker-gc) - Docker garbage collection of containers and images
 * [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern boilerplate / framework / standard library for bash
-* [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
+* [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 * [lukas2511/dehydrated](https://github.com/lukas2511/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
 * [git-ftp/git-ftp](https://github.com/git-ftp/git-ftp) - Uses Git to upload only changed files to FTP servers.
 * [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 * [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A package manager for the fish shell
 * [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
-* [cknadler/vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
 * [Mayccoll/Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
+* [cknadler/vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
 * [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 * [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 * [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 * [kewlbear/FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script) - Shell scripts to build FFmpeg for iOS and tvOS
 * [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
-* [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, include java, shell etc.
+* [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 * [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 * [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - Linux Game Server Managers_
 * [OpenVPN/easy-rsa](https://github.com/OpenVPN/easy-rsa) - easy-rsa - Simple shell based CA utility
 * [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
-* [mathiasbynens/evil.sh](https://github.com/mathiasbynens/evil.sh) - :speak_no_evil: Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 * [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
+* [mathiasbynens/evil.sh](https://github.com/mathiasbynens/evil.sh) - :speak_no_evil: Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 * [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 * [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 * [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, TruffleRuby or MRuby
+* [teddysun/lamp](https://github.com/teddysun/lamp) - Install LAMP(Linux + Apache + MySQL/MariaDB/Percona Server + PHP ) for CentOS/Fedora/Debian/Ubuntu
 * [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
 * [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, nvm, neovim - my whole world
 * [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
-* [teddysun/lamp](https://github.com/teddysun/lamp) - Install LAMP(Linux + Apache + MySQL/MariaDB/Percona Server + PHP ) for CentOS/Fedora/Debian/Ubuntu
-* [silinternational/ecs-deploy](https://github.com/silinternational/ecs-deploy) - Simple shell script for initiating blue-green deployments on Amazon EC2 Container Service (ECS)
 * [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
 * [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
+* [silinternational/ecs-deploy](https://github.com/silinternational/ecs-deploy) - Simple shell script for initiating blue-green deployments on Amazon EC2 Container Service (ECS)
 * [WritingMinds/ffmpeg-android](https://github.com/WritingMinds/ffmpeg-android) - FFmpeg for Android compiled with x264, libass, fontconfig, freetype, fribidi and lame (Supports Android 4.1+)
 * [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
+* [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 * [mchav/with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
 * [pch/welder](https://github.com/pch/welder) - 👨‍🏭Set up your Linux server with plain shell scripts
-* [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 * [bpkg/bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
-* [shellfire-dev/shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included.
-* [kerl/kerl](https://github.com/kerl/kerl) - Easy building and installing of Erlang/OTP instances
-* [visionmedia/deploy](https://github.com/visionmedia/deploy) - Minimalistic deployment shell script
 * [Fourdee/DietPi](https://github.com/Fourdee/DietPi) - Lightweight justice for your single-board computer.
+* [kerl/kerl](https://github.com/kerl/kerl) - Easy building and installing of Erlang/OTP instances
+* [shellfire-dev/shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included.
+* [visionmedia/deploy](https://github.com/visionmedia/deploy) - Minimalistic deployment shell script
 * [chriskempson/base16-shell](https://github.com/chriskempson/base16-shell) - Base16 for Shells
 * [dana-at-cp/backdoor-apk](https://github.com/dana-at-cp/backdoor-apk) - backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only.
 * [mrworf/plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
@@ -78,756 +78,767 @@ A curated list of awesome Shell frameworks, libraries and software.
 * [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 * [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
 * [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
-* [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
 * [jorgebucaran/fish-shell-cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) - Tips and recipes for fish, from shell to plate
 * [fengyuhetao/shell](https://github.com/fengyuhetao/shell) - Linux命令行与shell脚本编程大全案例
+* [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
+* [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 * [clangcn/kcp-server](https://github.com/clangcn/kcp-server) - kcp-server one key install shell,build for https://github.com/kcptunsocks/kcptun/tree/router
 * [heroku/heroku-buildpack-python](https://github.com/heroku/heroku-buildpack-python) - The official Heroku buildpack for Python apps.
-* [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 * [andreyvit/create-dmg](https://github.com/andreyvit/create-dmg) - A shell script to build fancy DMGs
 * [aurora/rmate](https://github.com/aurora/rmate) - Remote TextMate 2 implemented as shell script
-* [StarshipEngineer/OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi (TM) as an OpenVPN server
 * [riobard/bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script. See also https://github.com/riobard/zsh-powerline
-* [adambrenecki/virtualfish](https://github.com/adambrenecki/virtualfish) - A Fish wrapper for Ian Bicking's virtualenv, based loosely on Doug Hellman's virtualenvwrapper for Bash.
+* [StarshipEngineer/OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi (TM) as an OpenVPN server
 * [kward/shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
+* [adambrenecki/virtualfish](https://github.com/adambrenecki/virtualfish) - A Fish wrapper for Ian Bicking's virtualenv, based loosely on Doug Hellman's virtualenvwrapper for Bash.
 * [carloscuesta/materialshell](https://github.com/carloscuesta/materialshell) - A material design theme for your terminal. ✨
 * [dyne/Tomb](https://github.com/dyne/Tomb) - the Crypto Undertaker
-* [ivandavidov/minimal](https://github.com/ivandavidov/minimal) - Minimal Linux Live is a tiny educational Linux distribution, which is designed to be built from scratch by using a collection of automated shell scripts. Minimal Linux Live offers a core environment with just the Linux kernel, GNU C library and BusyBox userland utilities.
 * [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+* [ivandavidov/minimal](https://github.com/ivandavidov/minimal) - Minimal Linux Live is a tiny educational Linux distribution, which is designed to be built from scratch by using a collection of automated shell scripts. Minimal Linux Live offers a core environment with just the Linux kernel, GNU C library and BusyBox userland utilities.
+* [kuoruan/shell-scripts](https://github.com/kuoruan/shell-scripts) - Linux Shell Scripts
 * [glenpike/npm-g_nosudo](https://github.com/glenpike/npm-g_nosudo) - A shell script which will fix the problem where you want to stop using sudo for npm -g on Ubuntu.
 * [envygeeks/jekyll-docker](https://github.com/envygeeks/jekyll-docker) - ⛴ Docker images, and CI builders for Jekyll.
 * [wireghoul/htshells](https://github.com/wireghoul/htshells) - Self contained htaccess shells and attacks
-* [kuoruan/shell-scripts](https://github.com/kuoruan/shell-scripts) - Linux Shell Scripts
 * [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only.
-* [jcsalterego/historian](https://github.com/jcsalterego/historian) - Command-line utility for managing shell history in a SQLite database.
-* [monfresh/laptop](https://github.com/monfresh/laptop) - A shell script which turns your Mac into an awesome web development machine.
-* [cloudsec/brootkit](https://github.com/cloudsec/brootkit) - Lightweight rootkit implemented by bash shell scripts v0.10
 * [aqzt/kjyw](https://github.com/aqzt/kjyw) - 快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、php、redis、nagios、运维经常使用的脚本等等...
-* [geometry-zsh/geometry](https://github.com/geometry-zsh/geometry) - geometry is a minimal, fully customizable and composable zsh prompt theme
+* [monfresh/laptop](https://github.com/monfresh/laptop) - A shell script which turns your Mac into an awesome web development machine.
+* [jcsalterego/historian](https://github.com/jcsalterego/historian) - Command-line utility for managing shell history in a SQLite database.
+* [cloudsec/brootkit](https://github.com/cloudsec/brootkit) - Lightweight rootkit implemented by bash shell scripts v0.10
 * [monlor/Monlor-Tools](https://github.com/monlor/Monlor-Tools) - 小米路由器Shell工具箱，本人自用，主要参考了小米的Misstar Tools制作，仅学习之用！Telegram群组：https://t.me/joinchat/FMraA0lwzH9fzEW1wXdCFA
+* [geometry-zsh/geometry](https://github.com/geometry-zsh/geometry) - geometry is a minimal, fully customizable and composable zsh prompt theme
 * [goreliu/zshguide](https://github.com/goreliu/zshguide) - Zsh 开发指南
 * [snwh/ubuntu-post-install](https://github.com/snwh/ubuntu-post-install) - A set of post-installation shell scripts for Ubuntu
+* [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
+* [summerblue/laravel-ubuntu-init](https://github.com/summerblue/laravel-ubuntu-init) - A shell script for setting up Laravel Production environment on Ubuntu 14.04 & Ubuntu 16  system.
 * [mdo/config](https://github.com/mdo/config) - Personal checklist for setting up a new Mac's dev environment.
 * [iridakos/goto](https://github.com/iridakos/goto) - A shell utility to quickly navigate to aliased directories supporting auto-completion :penguin:
 * [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
-* [summerblue/laravel-ubuntu-init](https://github.com/summerblue/laravel-ubuntu-init) - A shell script for setting up Laravel Production environment on Ubuntu 14.04 & Ubuntu 16  system.
-* [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - :computer: Public repo for my personal dotfiles
 * [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
+* [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - :computer: Public repo for my personal dotfiles
 * [iljaiwas/objc-run](https://github.com/iljaiwas/objc-run) - A shell script that makes it easy to use Objective-C files for shell script-like tasks.
-* [neverpanic/google-font-download](https://github.com/neverpanic/google-font-download) - Locally host Google's web fonts
 * [cokebar/gfwlist2dnsmasq](https://github.com/cokebar/gfwlist2dnsmasq) - A shell script which convert gfwlist into dnsmasq rules. Python version: https://github.com/cokebar/gfwlist2dnsmasq_python
+* [neverpanic/google-font-download](https://github.com/neverpanic/google-font-download) - Locally host Google's web fonts
+* [trimstray/htrace.sh](https://github.com/trimstray/htrace.sh) - Shell script for http/https troubleshooting and profiling.
 * [centos-bz/ezhttp](https://github.com/centos-bz/ezhttp) - The bash shell script stack for installation of Nginx OpenResty Tengine lua_nginx_module nginx_concat_module nginx_upload_module ngx_substitutions_filter_module　Apache-2.2 Apache-2.4　MySQL-5.1 MySQL-5.5 MySQL-5.6 MySQL-5.7 PHP-5.2 PHP-5.3 PHP-5.4 PHP-5.5 PHP-5.6 ZendOptimizer ZendGuardLoader Xcache Eaccelerator Imagemagick IonCube Memcache Memcached Redis Mongo Xdebug Mssql Memcached PureFtpd PhpMyAdmin Redis Mongodb PhpRedisAdmin MemAdmin RockMongo Jdk7 Jdk8 Tomcat7 Tomcat8
-* [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
 * [webpro/dotfiles](https://github.com/webpro/dotfiles) - Dotfiles for macOS
-* [bmizerany/roundup](https://github.com/bmizerany/roundup) - eliminate bugs and weeds from shell scripts
 * [stackhou/AutoPacking-iOS](https://github.com/stackhou/AutoPacking-iOS) - iOS自动打包脚本 多项选择 一行上传指定位置
+* [bmizerany/roundup](https://github.com/bmizerany/roundup) - eliminate bugs and weeds from shell scripts
 * [modernish/modernish](https://github.com/modernish/modernish) - cross-platform POSIX shell feature detection and language extension library
 * [eivind88/prm](https://github.com/eivind88/prm) - A minimal project manager for the terminal.
 * [alestic/lambdash](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside AWS Lambda environment
-* [flplv/ssh-allow-friend](https://github.com/flplv/ssh-allow-friend) - A shell script to temporary allow ssh logins for friends
-* [bestswifter/macbootstrap](https://github.com/bestswifter/macbootstrap) - A bootstrap script for new Mac
 * [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of useful extra git scripts I've discovered or written, packaged for ease of use with shell frameworks.
-* [zoltan-dulac/css3FontConverter](https://github.com/zoltan-dulac/css3FontConverter) - A shell script that can use other command line tools to produce @font-face compatible fonts in all browsers.  Works under Windows (using Cygwin), Mac OS X and Linux
+* [bestswifter/macbootstrap](https://github.com/bestswifter/macbootstrap) - A bootstrap script for new Mac
+* [flplv/ssh-allow-friend](https://github.com/flplv/ssh-allow-friend) - A shell script to temporary allow ssh logins for friends
 * [odb/shml](https://github.com/odb/shml) - SHell Markup Language | Style Framework for The Terminal
 * [jgmdev/ddos-deflate](https://github.com/jgmdev/ddos-deflate) - Fork of DDoS Deflate with fixes, improvements and new features.
-* [ahnick/encpass.sh](https://github.com/ahnick/encpass.sh) - Lightweight solution for using encrypted passwords in shell scripts
+* [zoltan-dulac/css3FontConverter](https://github.com/zoltan-dulac/css3FontConverter) - A shell script that can use other command line tools to produce @font-face compatible fonts in all browsers.  Works under Windows (using Cygwin), Mac OS X and Linux
 * [trick77/ipset-blacklist](https://github.com/trick77/ipset-blacklist) - A bash script to ban large numbers of IP addresses published in blacklists.
+* [ahnick/encpass.sh](https://github.com/ahnick/encpass.sh) - Lightweight solution for using encrypted passwords in shell scripts
 * [centminmod/centminmod](https://github.com/centminmod/centminmod) - CentOS Shell menu based Nginx LEMP web stack auto installer (GPLv3 licensed)
+* [x70b1/polybar-scripts](https://github.com/x70b1/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 * [ericoc/zabbix-slack-alertscript](https://github.com/ericoc/zabbix-slack-alertscript) - Zabbix AlertScript for Slack.com chat
+* [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - Config files for ZSH, Java, Ruby, Go, Editors, Terminals and more.
 * [petrockblog/OwncloudPie](https://github.com/petrockblog/OwncloudPie) - Shell script for installing Owncloud on the Raspberry Pi
 * [kasparsd/php-7-debian](https://github.com/kasparsd/php-7-debian) - Install PHP 7 on Debian/Ubuntu
-* [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - Config files for ZSH, Java, Ruby, Go, Editors, Terminals and more.
-* [trimstray/htrace.sh](https://github.com/trimstray/htrace.sh) - Simple shell script to debugging http/https connection tracing, response headers and mixed-content. Scanning domain using Nmap NSE Library. Support external security tools: Mozilla Observatory and SSL Labs API.
-* [github-modules/ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
 * [wireghoul/graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool
-* [vmavromatis/gnome-layout-manager](https://github.com/vmavromatis/gnome-layout-manager) - A bash script that batch installs and tweaks GNOME extensions as well as GTK/Shell themes. There are currently three options available: Unity, Windows and macOS.
-* [x70b1/polybar-scripts](https://github.com/x70b1/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
-* [oscm/shell](https://github.com/oscm/shell) - Infrastructure Management Shell - Linux
-* [rylnd/shpec](https://github.com/rylnd/shpec) - Test your shell scripts!
-* [colbycheeze/dotfiles](https://github.com/colbycheeze/dotfiles) - Macbook setup scripts + all of my local dotfiles
-* [rafaelrinaldi/pure](https://github.com/rafaelrinaldi/pure) - Port of the `pure` ZSH prompt to Fish 🐟
+* [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
 * [getfatday/keytool-importkeypair](https://github.com/getfatday/keytool-importkeypair) - A shell script to import key/certificate pairs into an existing Java keystore
+* [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
+* [vmavromatis/gnome-layout-manager](https://github.com/vmavromatis/gnome-layout-manager) - A bash script that batch installs and tweaks GNOME extensions as well as GTK/Shell themes. There are currently three options available: Unity, Windows and macOS.
+* [rafaelrinaldi/pure](https://github.com/rafaelrinaldi/pure) - Port of the `pure` ZSH prompt to Fish 🐟
+* [github-modules/ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
+* [oscm/shell](https://github.com/oscm/shell) - Infrastructure Management Shell - Linux
+* [colbycheeze/dotfiles](https://github.com/colbycheeze/dotfiles) - Setup and install scripts for a new machine + dotfiles for various apps. Linux, Mac, and Mac (Amazon specific) branches are included.
 * [mfaerevaag/wd](https://github.com/mfaerevaag/wd) - :rocket: Jump to custom directories in zsh
-* [churchers/vm-bhyve](https://github.com/churchers/vm-bhyve) - Shell based, minimal dependency bhyve manager
+* [rylnd/shpec](https://github.com/rylnd/shpec) - Test your shell scripts!
 * [raylee/tldr](https://github.com/raylee/tldr) - Simplified and community-driven man pages
-* [RayViljoen/Raspberry-PI-SD-Installer-OS-X](https://github.com/RayViljoen/Raspberry-PI-SD-Installer-OS-X) - Shell Script for creating Raspberry PI SD card on OS X.
 * [servisys/ispconfig_setup](https://github.com/servisys/ispconfig_setup) - ISPConfig autoinstaller and setup
+* [churchers/vm-bhyve](https://github.com/churchers/vm-bhyve) - Shell based, minimal dependency bhyve manager
+* [RayViljoen/Raspberry-PI-SD-Installer-OS-X](https://github.com/RayViljoen/Raspberry-PI-SD-Installer-OS-X) - Shell Script for creating Raspberry PI SD card on OS X.
 * [ekalinin/envirius](https://github.com/ekalinin/envirius) - Universal Virtual Environments Manager
 * [SafeBreach-Labs/pwndsh](https://github.com/SafeBreach-Labs/pwndsh) - Post-exploitation framework (and an interactive shell) developed in Bash shell scripting
-* [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
-* [gozoinks/unifi-pfsense](https://github.com/gozoinks/unifi-pfsense) - A script that installs the UniFi Controller software on pfSense and other FreeBSD systems
-* [pr1ntf/iohyve](https://github.com/pr1ntf/iohyve) - FreeBSD bhyve manager utilizing ZFS
 * [sapegin/dotfiles](https://github.com/sapegin/dotfiles) - My macOS environment: zsh, Git, Visual Studio Code, etc.
-* [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
+* [gozoinks/unifi-pfsense](https://github.com/gozoinks/unifi-pfsense) - A script that installs the UniFi Controller software on pfSense and other FreeBSD systems
+* [mafredri/zsh-async](https://github.com/mafredri/zsh-async) - Because your terminal should be able to perform tasks asynchronously without external tools!
+* [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
+* [pr1ntf/iohyve](https://github.com/pr1ntf/iohyve) - FreeBSD bhyve manager utilizing ZFS
 * [andrep/git-svn-clone-externals](https://github.com/andrep/git-svn-clone-externals) - Simple shell script to import svn:externals into a local git-svn repository
 * [18F/laptop](https://github.com/18F/laptop) - A shell script which turns your Mac into an awesome web development machine.
-* [mafredri/zsh-async](https://github.com/mafredri/zsh-async) - Because your terminal should be able to perform tasks asynchronously without external tools!
-* [alphabetum/bash-boilerplate](https://github.com/alphabetum/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
-* [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
-* [ellipsis/ellipsis](https://github.com/ellipsis/ellipsis) - ◦◦◦ Ellipsis is a package manager for dotfiles.
 * [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
-* [fteem/git-semantic-commits](https://github.com/fteem/git-semantic-commits) - Tiny semantic commit messages for Git.
 * [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment.
-* [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
-* [examplecode/unused-image](https://github.com/examplecode/unused-image) - This is shell script used to check and clean unused image resource , support Android and IOS project
-* [nystudio107/craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments
-* [rjbaker/simple-magento-vagrant](https://github.com/rjbaker/simple-magento-vagrant) - A VERY simple Magento environment provisioner for Vagrant
 * [esc0rtd3w/wifi-hacker](https://github.com/esc0rtd3w/wifi-hacker) - Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2)
+* [alphabetum/bash-boilerplate](https://github.com/alphabetum/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
+* [fteem/git-semantic-commits](https://github.com/fteem/git-semantic-commits) - Tiny semantic commit messages for Git.
+* [nystudio107/craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments
+* [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
+* [ellipsis/ellipsis](https://github.com/ellipsis/ellipsis) - ◦◦◦ Ellipsis is a package manager for dotfiles.
 * [ellerbrock/fish-shell-setup-osx](https://github.com/ellerbrock/fish-shell-setup-osx) - :blowfish: Tutorial: Fish, Fisher, Powerline Fonts + iTerm2
-* [codigofuerte/GeoNames-MySQL-DataImport](https://github.com/codigofuerte/GeoNames-MySQL-DataImport) - Shell Script to download and import geonames.org dumps into a mysql database.
+* [examplecode/unused-image](https://github.com/examplecode/unused-image) - This is shell script used to check and clean unused image resource , support Android and IOS project
+* [rjbaker/simple-magento-vagrant](https://github.com/rjbaker/simple-magento-vagrant) - A VERY simple Magento environment provisioner for Vagrant
 * [natelandau/shell-scripts](https://github.com/natelandau/shell-scripts) - Shell scripting utility functions and a bash script boilerplate template
+* [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
+* [codigofuerte/GeoNames-MySQL-DataImport](https://github.com/codigofuerte/GeoNames-MySQL-DataImport) - Shell Script to download and import geonames.org dumps into a mysql database.
 * [miohtama/ztanesh](https://github.com/miohtama/ztanesh) - Improve your UNIX command line experience and productivity with ztanesh project: the tools will make your shell more powerful and easier to use.
 * [llitfkitfk/docker-tutorial-cn](https://github.com/llitfkitfk/docker-tutorial-cn) - docker 教程
-* [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
-* [mstinaff/PMS_Updater](https://github.com/mstinaff/PMS_Updater) - Shell script for updating the Plex Media Server inside the FreeNAS Plex plugin
+* [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
+* [mstinaff/PMS_Updater](https://github.com/mstinaff/PMS_Updater) - Shell script for updating the Plex Media Server inside the FreeNAS Plex plugin
 * [sund/auto-gitlab-backup](https://github.com/sund/auto-gitlab-backup) - A simple script to backup your Gitlab data. This script will copy the backup archives of your gitlab installation via rsync, or scp. Also, you can copy backups to Backblaze’s B2 Cloud Storage service.
 * [Screetsec/Vegile](https://github.com/Screetsec/Vegile) - This tool will setting up your backdoor/rootkits when backdoor already setup it will be hidden your spesisifc process,unlimited your session in metasploit and transparent. Even when it killed, it will re-run again. There always be a procces which while run another process,So we can assume that this procces is unstopable like a Ghost in The Shell
-* [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [anrip/ArDNSPod](https://github.com/anrip/ArDNSPod) - 基于DNSPod用户API实现的纯Shell动态域名客户端
-* [bluezio/ipwebcam-gst](https://github.com/bluezio/ipwebcam-gst) - Simple shell script for using IP Webcam as a V4L2 webcam / sound source
 * [chriscool/sharness](https://github.com/chriscool/sharness) - Shell library to test your Unix tools like Git does
-* [kvz/cronlock](https://github.com/kvz/cronlock) - cronlock lets you deploy cronjobs cluster-wide without worrying about overlaps. It uses Redis to keep track of locks.
+* [bluezio/ipwebcam-gst](https://github.com/bluezio/ipwebcam-gst) - Simple shell script for using IP Webcam as a V4L2 webcam / sound source
 * [chrismytton/shoreman](https://github.com/chrismytton/shoreman) - foreman in shell
-* [mattly/bork](https://github.com/mattly/bork) - the Bash-Operated Reconciling Kludge
+* [kvz/cronlock](https://github.com/kvz/cronlock) - cronlock lets you deploy cronjobs cluster-wide without worrying about overlaps. It uses Redis to keep track of locks.
 * [erichs/composure](https://github.com/erichs/composure) - Don't fear the Unix chainsaw
-* [karek314/macOS-home-call-drop](https://github.com/karek314/macOS-home-call-drop) - Simple shell script to fix macOS privacy issues and remove mostly useless macOS calls to cupertino
-* [realestate-com-au/bash-my-aws](https://github.com/realestate-com-au/bash-my-aws) - Bash functions for managing AWS resources simply and easily
+* [mattly/bork](https://github.com/mattly/bork) - the Bash-Operated Reconciling Kludge
 * [Screetsec/BruteSploit](https://github.com/Screetsec/BruteSploit) - BruteSploit is a collection of method for automated Generate, Bruteforce and Manipulation wordlist with interactive shell. That can be used during a penetration test to enumerate and maybe can be used in CTF for manipulation,combine,transform and permutation some words or file text :p
-* [DFabric/DPlatform-Shell](https://github.com/DFabric/DPlatform-Shell) - Deploy self-hosted apps easily: simple, bloat-free, independent installation
+* [karek314/macOS-home-call-drop](https://github.com/karek314/macOS-home-call-drop) - Simple shell script to fix macOS privacy issues and remove mostly useless macOS calls to cupertino
+* [bash-my-universe/bash-my-aws](https://github.com/bash-my-universe/bash-my-aws) - Bash functions for managing AWS resources simply and easily
 * [w00fz/xdebug-osx](https://github.com/w00fz/xdebug-osx) - Simple bash script to toggle xdebug on/off in OSX
 * [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
-* [sheharyarn/mongo-sync](https://github.com/sheharyarn/mongo-sync) - Sync Remote and Local MongoDB Databases :fire:
+* [DFabric/DPlatform-Shell](https://github.com/DFabric/DPlatform-Shell) - Deploy self-hosted apps easily: simple, bloat-free, independent installation
 * [whiteinge/ok.sh](https://github.com/whiteinge/ok.sh) - A Bourne shell GitHub API client library focused on interfacing with shell scripts
-* [xuxiaodong/tmuxen](https://github.com/xuxiaodong/tmuxen) - tmux environment made easy.
+* [sheharyarn/mongo-sync](https://github.com/sheharyarn/mongo-sync) - Sync Remote and Local MongoDB Databases :fire:
+* [clangcn/onekey-install-shell](https://github.com/clangcn/onekey-install-shell) - 一大坨一键安装脚本
 * [xwp/wp-dev-lib](https://github.com/xwp/wp-dev-lib) - Common code used during development of WordPress plugins and themes
+* [xuxiaodong/tmuxen](https://github.com/xuxiaodong/tmuxen) - tmux environment made easy.
 * [MinecraftServerControl/mscs](https://github.com/MinecraftServerControl/mscs) - Powerful command-line control for UNIX and Linux powered Minecraft servers
 * [danhper/fundle](https://github.com/danhper/fundle) - A minimalist package manager for fish shell
-* [clangcn/onekey-install-shell](https://github.com/clangcn/onekey-install-shell) - 一大坨一键安装脚本
+* [Ventto/mons](https://github.com/Ventto/mons) - KISS and POSIX Shell script to quickly manage three monitors on X
+* [JElchison/format-udf](https://github.com/JElchison/format-udf) - Bash script to format a block device (hard drive or Flash drive) in UDF. The output is a drive that can be used for reading/writing across multiple operating system families: Windows, macOS, and Linux. This script should be capable of running in macOS or in Linux.
 * [bntzio/wipe-modules](https://github.com/bntzio/wipe-modules) - A little agent that removes the node_modules folder of non-active projects 🗑️
 * [bkuhlmann/mac_os](https://github.com/bkuhlmann/mac_os) - Shell scripts for automated macOS machine setup.
-* [JElchison/format-udf](https://github.com/JElchison/format-udf) - Bash script to format a block device (hard drive or Flash drive) in UDF. The output is a drive that can be used for reading/writing across multiple operating system families: Windows, macOS, and Linux. This script should be capable of running in macOS or in Linux.
 * [ftrvxmtrx/split2flac](https://github.com/ftrvxmtrx/split2flac) - Split flac/ape/wv/wav + cue sheet into separate tracks
-* [dotzero/vagrant-debian-jessie](https://github.com/dotzero/vagrant-debian-jessie) - Automatic Debian 8 Vagrant base box building on OSX, Linux and Windows
-* [Ventto/mons](https://github.com/Ventto/mons) - KISS and POSIX Shell script to quickly manage three monitors on X
 * [jakewmeyer/Geo](https://github.com/jakewmeyer/Geo) - :earth_americas: A Bash utility for easy wan, lan, router, dns, mac address, and geolocation output, with clean stdout for piping
 * [geerlingguy/dotfiles](https://github.com/geerlingguy/dotfiles) - My configuration. Minimalist, but helps save a few thousand keystrokes a day.
+* [dotzero/vagrant-debian-jessie](https://github.com/dotzero/vagrant-debian-jessie) - Automatic Debian 8 Vagrant base box building on OSX, Linux and Windows
 * [bkuhlmann/mac_os-config](https://github.com/bkuhlmann/mac_os-config) - Shell scripts for customized macOS machine setup and configuration.
-* [njhartwell/pw3nage](https://github.com/njhartwell/pw3nage) - If you get pw3ned, might want to fix your shell
-* [matthewmccullough/dotfiles](https://github.com/matthewmccullough/dotfiles) - Shell Config
 * [dougborg/gdub](https://github.com/dougborg/gdub) - A gradlew / gradle wrapper.
 * [changyuheng/fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature of z
+* [njhartwell/pw3nage](https://github.com/njhartwell/pw3nage) - If you get pw3ned, might want to fix your shell
 * [urbainvaes/fzf-marks](https://github.com/urbainvaes/fzf-marks) - Plugin to manage bookmarks in bash and zsh
+* [matthewmccullough/dotfiles](https://github.com/matthewmccullough/dotfiles) - Shell Config
+* [cloudposse/geodesic](https://github.com/cloudposse/geodesic) - 🚀 Geodesic is the fastest way to get up and running with a rock solid, production grade cloud platform built on top of strictly Open Source tools. https://slack.cloudposse.com/
 * [passcod/nvm-fish-wrapper](https://github.com/passcod/nvm-fish-wrapper) - NVM wrapper for the fish shell - NOT MAINTAINED
 * [cyphunk/humanism.sh](https://github.com/cyphunk/humanism.sh) - subjective but sensible defaults for shell use. Ubuntu, OSX, FreeBSD tested.
 * [gaenserich/hostsblock](https://github.com/gaenserich/hostsblock) - an ad- and malware-blocking script for Linux
-* [graysky2/pulseaudio-ctl](https://github.com/graysky2/pulseaudio-ctl) - Control pulseaudio volume from the shell or mapped to keyboard shortcuts. No need for alsa-utils.
 * [codeship/scripts](https://github.com/codeship/scripts) - A collection of scripts for use on Codeship Basic
-* [exceedhl/toft](https://github.com/exceedhl/toft) - toft is a library currently supporting testing infrastructure code such as chef, shell scripts with cucumber and lxc on linux machine
+* [graysky2/pulseaudio-ctl](https://github.com/graysky2/pulseaudio-ctl) - Control pulseaudio volume from the shell or mapped to keyboard shortcuts. No need for alsa-utils.
 * [jreinke/modgit](https://github.com/jreinke/modgit) - Shell script for Git module deployment with include/exclude filters.
-* [cloudposse/geodesic](https://github.com/cloudposse/geodesic) - 🚀 Geodesic is the fastest way to get up and running with a rock solid, production grade cloud platform built on top of strictly Open Source tools. https://slack.cloudposse.com/
+* [exceedhl/toft](https://github.com/exceedhl/toft) - toft is a library currently supporting testing infrastructure code such as chef, shell scripts with cucumber and lxc on linux machine
 * [changs/slimzsh](https://github.com/changs/slimzsh) - Small, usable configuration for ZSH
+* [Nefelim4ag/systemd-swap](https://github.com/Nefelim4ag/systemd-swap) - Script for creating hybrid swap space from zram swaps, swap files and swap partitions.
 * [FICS/atcmd](https://github.com/FICS/atcmd) - Android AT command scripts and firmware extraction
-* [Cyclenerd/gallery_shell](https://github.com/Cyclenerd/gallery_shell) - 📷 Bash Script to generate static responsive image web galleries.
-* [cryptojuice/gobrew](https://github.com/cryptojuice/gobrew) - Shell script to download and set GO environmental paths to allow multiple versions.
 * [aqingsao/nana](https://github.com/aqingsao/nana) - A lightweight Nginx log analyzer written in shell(statistics of traffic/rate/response time/upstream servers/spiders/response codes)
+* [jgigault/42FileChecker](https://github.com/jgigault/42FileChecker) - 42FileChecker is a tiny bash script developed at 42 school for testing and checking files according to the rules of the subjects
+* [Cyclenerd/gallery_shell](https://github.com/Cyclenerd/gallery_shell) - 📷 Bash Script to generate static responsive image web galleries.
 * [sheerun/dotfiles](https://github.com/sheerun/dotfiles) - My lovely dotfiles. Chocolate and unicorns.
 * [kyle8998/Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A fun project made for slackers by slackers.
 * [falconindy/asp](https://github.com/falconindy/asp) - Arch Build Source Management Tool
-* [jgigault/42FileChecker](https://github.com/jgigault/42FileChecker) - 42FileChecker is a tiny bash script developed at 42 school for testing and checking files according to the rules of the subjects
-* [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
-* [tlevine/urchin](https://github.com/tlevine/urchin) - Shell tests
-* [rafritts/bunit](https://github.com/rafritts/bunit) - A unit testing framework for Shell scripts - namely Bash.
-* [GeekCloud-Team/login-shell](https://github.com/GeekCloud-Team/login-shell) - SSH登陆显示脚本
+* [cryptojuice/gobrew](https://github.com/cryptojuice/gobrew) - Shell script to download and set GO environmental paths to allow multiple versions.
 * [breunigs/bravia-auth-and-remote](https://github.com/breunigs/bravia-auth-and-remote) - Shell snippets to auth and send remote control commands to Sony Bravia TVs
-* [Nefelim4ag/systemd-swap](https://github.com/Nefelim4ag/systemd-swap) - Script for creating hybrid swap space from zram swaps, swap files and swap partitions.
-* [konstruktoid/Docker](https://github.com/konstruktoid/Docker) - Docker playground
-* [jgamblin/MacOS-Maid](https://github.com/jgamblin/MacOS-Maid) - Shell Script I Use To Automatically Clean Up My Mac.
-* [ninrod/dotfiles](https://github.com/ninrod/dotfiles) - :octocat: Ninrod's sharpened dotfiles for emacs, vim, zsh, tmux and friends.
-* [meitar/git-archive-all.sh](https://github.com/meitar/git-archive-all.sh) - A bash shell script wrapper for git-archive that archives a git superproject and its submodules, if it has any.
+* [tlevine/urchin](https://github.com/tlevine/urchin) - Shell tests
+* [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
+* [evanlucas/fish-kubectl-completions](https://github.com/evanlucas/fish-kubectl-completions) - kubectl completions for fish shell
 * [oldmanpushcart/shell](https://github.com/oldmanpushcart/shell) - 我在unix/linux下积累的常用工具
+* [GeekCloud-Team/login-shell](https://github.com/GeekCloud-Team/login-shell) - SSH登陆显示脚本
+* [konstruktoid/Docker](https://github.com/konstruktoid/Docker) - Docker playground
+* [rafritts/bunit](https://github.com/rafritts/bunit) - A unit testing framework for Shell scripts - namely Bash.
+* [jgamblin/MacOS-Maid](https://github.com/jgamblin/MacOS-Maid) - Shell Script I Use To Automatically Clean Up My Mac.
+* [meitar/git-archive-all.sh](https://github.com/meitar/git-archive-all.sh) - A bash shell script wrapper for git-archive that archives a git superproject and its submodules, if it has any.
+* [barnybug-archive/docker-fish-completion](https://github.com/barnybug-archive/docker-fish-completion) - ARCHIVED: docker command completion for the fish shell
+* [ninrod/dotfiles](https://github.com/ninrod/dotfiles) - :octocat: Ninrod's sharpened dotfiles for emacs, vim, zsh, tmux and friends.
 * [KnpLabs/symfony2-autocomplete](https://github.com/KnpLabs/symfony2-autocomplete) - [UNMAINTAINED] A very simple script to autocomplete Symfony2 commands in a bash shell.
 * [jorgebucaran/shark](https://github.com/jorgebucaran/shark) - Sparkline generator for the fish-shell
-* [evanlucas/fish-kubectl-completions](https://github.com/evanlucas/fish-kubectl-completions) - kubectl completions for fish shell
-* [barnybug-archive/docker-fish-completion](https://github.com/barnybug-archive/docker-fish-completion) - docker command completion for the fish shell
-* [chenxiaolong/Unity-for-Arch](https://github.com/chenxiaolong/Unity-for-Arch) - Porting Ubuntu's Unity Shell to Arch Linux
 * [swoodford/aws](https://github.com/swoodford/aws) - A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
-* [simnalamburt/shellder](https://github.com/simnalamburt/shellder) - :shell: Featured zsh/fish shell theme
-* [justinmayer/tacklebox](https://github.com/justinmayer/tacklebox) - Framework for organizing and sharing fish shell functions
-* [atarallo/TECMINT_MONITOR](https://github.com/atarallo/TECMINT_MONITOR) - A Shell Script to Monitor Network, Disk Usage, Uptime, Load Average and RAM Usage in Linux. Originally published on http://www.tecmint.com
 * [ismailtasdelen/Anti-DDOS](https://github.com/ismailtasdelen/Anti-DDOS) - 🔒 Anti DDOS | Bash Script Project 🔒
-* [rupa/j](https://github.com/rupa/j) - semi clone of autojump (http://github.com/joelthelion/autojump) in shell/awk
+* [chenxiaolong/Unity-for-Arch](https://github.com/chenxiaolong/Unity-for-Arch) - Porting Ubuntu's Unity Shell to Arch Linux
+* [atarallo/TECMINT_MONITOR](https://github.com/atarallo/TECMINT_MONITOR) - A Shell Script to Monitor Network, Disk Usage, Uptime, Load Average and RAM Usage in Linux. Originally published on http://www.tecmint.com
+* [justinmayer/tacklebox](https://github.com/justinmayer/tacklebox) - Framework for organizing and sharing fish shell functions
+* [simnalamburt/shellder](https://github.com/simnalamburt/shellder) - :shell: Featured zsh/fish shell theme
+* [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) - Tools and living docs for Debian-based servers
 * [qdaxb/wtool](https://github.com/qdaxb/wtool) - shell toolkit
+* [rupa/j](https://github.com/rupa/j) - semi clone of autojump (http://github.com/joelthelion/autojump) in shell/awk
 * [loftuxab/alfresco-ubuntu-install](https://github.com/loftuxab/alfresco-ubuntu-install) - Alfresco script based install for Ubuntu
 * [bfontaine/rfc](https://github.com/bfontaine/rfc) - :page_facing_up: Read RFCs from the command-line
-* [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) - Tools and living docs for Debian-based servers
 * [myplaceonline/posixcube](https://github.com/myplaceonline/posixcube) - posixcube.sh is a POSIX compliant, shell script-based server automation framework.
 * [zmalltalker/fish-nuggets](https://github.com/zmalltalker/fish-nuggets) - Completions, code snippets helping you to get even more out of the amazing Fish shell
 * [jnwatts/pushover.sh](https://github.com/jnwatts/pushover.sh) - Shell script wrapper around curl for sending messages through PushOver
-* [joukewitteveen/netctl](https://github.com/joukewitteveen/netctl) - Profile based systemd network management
 * [IsaacSchemm/MultiCD](https://github.com/IsaacSchemm/MultiCD) - A shell script package for creating combination disks from Linux ISOs.
 * [epety/100-shell-script-examples](https://github.com/epety/100-shell-script-examples) - Collection of shell scripts found on the internet
-* [whihail/AutoArchive](https://github.com/whihail/AutoArchive) - 一个基于Jenkins的iOS/Android自动构建系统，它实现了最大程度的自动化，让你的iOS自动打包，Android自动打包流程变得更加高效。此项目包含了各种实现细节的讲解说明，你能够使用它解决大多数跟客户端构建/分发相关的问题，并将这种能力进行开放，提高研发效率。
-* [rocky/zshdb](https://github.com/rocky/zshdb) - zsh gdb-like "trepan" debugger
-* [MikeMcQuaid/dotfiles](https://github.com/MikeMcQuaid/dotfiles) - :computer: My dot files shared between machines.
-* [grrnikos/pma](https://github.com/grrnikos/pma) - Simple shell script that installs phpMyAdmin on a Laravel Homestead box.
-* [gmarik/gist.sh](https://github.com/gmarik/gist.sh) - Bash shell script for getting/posting code snippets (gists) from/to https://gist.github.com
-* [anapsix/zabbix-haproxy](https://github.com/anapsix/zabbix-haproxy) - HAProxy Zabbix Discovery and Template
+* [joukewitteveen/netctl](https://github.com/joukewitteveen/netctl) - Profile based systemd network management
 * [budlabs/i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts I have made to ease the use of i3wm
+* [MikeMcQuaid/dotfiles](https://github.com/MikeMcQuaid/dotfiles) - :computer: My dot files shared between machines.
+* [whihail/AutoArchive](https://github.com/whihail/AutoArchive) - 一个基于Jenkins的iOS/Android自动构建系统，它实现了最大程度的自动化，让你的iOS自动打包，Android自动打包流程变得更加高效。此项目包含了各种实现细节的讲解说明，你能够使用它解决大多数跟客户端构建/分发相关的问题，并将这种能力进行开放，提高研发效率。
+* [grrnikos/pma](https://github.com/grrnikos/pma) - Simple shell script that installs phpMyAdmin on a Laravel Homestead box.
+* [rocky/zshdb](https://github.com/rocky/zshdb) - zsh gdb-like "trepan" debugger
+* [chris-marsh/pureline](https://github.com/chris-marsh/pureline) - A Pure Bash Powerline PS1 Command Prompt
+* [anapsix/zabbix-haproxy](https://github.com/anapsix/zabbix-haproxy) - HAProxy Zabbix Discovery and Template
 * [SpiderLabs/jboss-autopwn](https://github.com/SpiderLabs/jboss-autopwn) - A JBoss script for obtaining remote shell access
 * [minamarkham/yonce](https://github.com/minamarkham/yonce) - 👑 Queen Bey-inspired themes for all your favs.
+* [gmarik/gist.sh](https://github.com/gmarik/gist.sh) - Bash shell script for getting/posting code snippets (gists) from/to https://gist.github.com
 * [denysdovhan/dotfiles](https://github.com/denysdovhan/dotfiles) - My lovely dots ~/.💖
-* [busterc/xcv](https://github.com/busterc/xcv) - :scissors: Cut, Copy and Paste files with Bash
 * [kward/shflags](https://github.com/kward/shflags) - shFlags is a port of the Google gflags library for Unix shell.
-* [raphaelcohn/bish-bosh](https://github.com/raphaelcohn/bish-bosh) - MQTT shell script client, for bash, dash, BusyBox ash and others. Gives you MQTT on anything Unix like, from embedded routers to AIX servers with almost no dependenices.
-* [chris-marsh/pureline](https://github.com/chris-marsh/pureline) - A Pure Bash Powerline PS1 Command Prompt
 * [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
+* [matchai/spacefish](https://github.com/matchai/spacefish) - 🚀🐟 A Fish Shell prompt for Astronauts
+* [FabioAntunes/fish-nvm](https://github.com/FabioAntunes/fish-nvm) - nvm wrapper for fish-shell
+* [busterc/xcv](https://github.com/busterc/xcv) - :scissors: Cut, Copy and Paste files with Bash
 * [rukshn/pomodoro](https://github.com/rukshn/pomodoro) - A simple pomodoro shell script
+* [raphaelcohn/bish-bosh](https://github.com/raphaelcohn/bish-bosh) - MQTT shell script client, for bash, dash, BusyBox ash and others. Gives you MQTT on anything Unix like, from embedded routers to AIX servers with almost no dependenices.
+* [Sepero/temp-throttle](https://github.com/Sepero/temp-throttle) - A shell script for throttling system CPU frequency based on a desired maximum temperature
+* [brandonprry/wicked_cool_shell_scripts_2e](https://github.com/brandonprry/wicked_cool_shell_scripts_2e) - Full shell scripts for the second edition of Wicked Cool Shell Scripts
 * [scponly/scponly](https://github.com/scponly/scponly) - The scponly pseudo-shell provides a file-transfer only shell for *Nix systems with optional support for using a chrooted environment.
 * [raphaelcohn/swaddle](https://github.com/raphaelcohn/swaddle) - swaddle creates RPM, Deb and tarball packages using shell script. Everything you need to package is in Source Control in simple directories. No rpminfo cruft, no DEB makefile hell. No Python, Ruby, Perl or other unnecessary stuff required
 * [jgamblin/quickinstall](https://github.com/jgamblin/quickinstall) - A Shell Script To Take Care Of Ubuntu Basics
-* [FabioAntunes/fish-nvm](https://github.com/FabioAntunes/fish-nvm) - nvm wrapper for fish-shell
-* [brandonprry/wicked_cool_shell_scripts_2e](https://github.com/brandonprry/wicked_cool_shell_scripts_2e) - Full shell scripts for the second edition of Wicked Cool Shell Scripts
+* [tokyoneon/Armor](https://github.com/tokyoneon/Armor) - Armor is a simple Bash script designed to create encrypted macOS payloads capable of evading antivirus scanners.
 * [solidsnack/arx](https://github.com/solidsnack/arx) - Bundles code and a job to run for local or remote execution.
-* [Sepero/temp-throttle](https://github.com/Sepero/temp-throttle) - A shell script for throttling system CPU frequency based on a desired maximum temperature
+* [sentora/sentora-installers](https://github.com/sentora/sentora-installers) - Provides a central place to store, version and distribute the Sentora installer and upgrade scripts from.
 * [qfish/xproj](https://github.com/qfish/xproj) - A shell script can batch adding compile flags like `-fno-objc-arc`or `-fobjc-arc` for all the files under the same dir by processing the project file.
 * [vinhnx/Ciapre-Xcode-theme](https://github.com/vinhnx/Ciapre-Xcode-theme) - An easy on the eyes Xcode color scheme, ported from Ciapre Sublime Text.
-* [sentora/sentora-installers](https://github.com/sentora/sentora-installers) - Provides a central place to store, version and distribute the Sentora installer and upgrade scripts from.
 * [teracow/googliser](https://github.com/teracow/googliser) - a fast BASH downloader for multiple images sourced from Google Images
+* [kaelzhang/shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm) - 😎 Safe-rm: A drop-in and much safer replacement of bash rm with nearly full functionalities and options of the rm command! Safe-rm will act exactly the same as the original rm command.
 * [bill-auger/git-branch-status](https://github.com/bill-auger/git-branch-status) - A shell script that prints out pretty git branch sync status reports
 * [lumerit/s3-shell-backups](https://github.com/lumerit/s3-shell-backups) - Shell scripts to backup files and databases to Amazon S3
-* [kaelzhang/shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm) - 😎 Safe-rm: A drop-in and much safer replacement of bash rm with nearly full functionalities and options of the rm command! Safe-rm will act exactly the same as the original rm command.
+* [x1mdev/ReconPi](https://github.com/x1mdev/ReconPi) - ReconPi - A lightweight recon tool that performs extensive scanning with the latest tools.
 * [pschmitt/pia-tools](https://github.com/pschmitt/pia-tools) - Shell script to automate privateinternetaccess port forwarding and starting/stopping transmission when connected/disconnected and other stuff
-* [StanAngeloff/vagrant-shell-scripts](https://github.com/StanAngeloff/vagrant-shell-scripts) - A collection of scripts to ease Vagrant box provisioning using the shell.
 * [WazeHell/PE-Linux](https://github.com/WazeHell/PE-Linux) - Linux Privilege Escalation Tool By WazeHell
+* [StanAngeloff/vagrant-shell-scripts](https://github.com/StanAngeloff/vagrant-shell-scripts) - A collection of scripts to ease Vagrant box provisioning using the shell.
 * [sjl/z-fish](https://github.com/sjl/z-fish) - A fork of http://github.com/rupa/z to port it to the Fish shell.
 * [chrismdp/p](https://github.com/chrismdp/p) - A simple yet powerful pomodoro tracker in pure Shell
-* [OzzyCzech/dotfiles](https://github.com/OzzyCzech/dotfiles) - OzzyCzech dotfiles for macOS
 * [zhwj184/shell-work](https://github.com/zhwj184/shell-work) - shell常用分析命令和脚本
-* [silvio/docker-matrix](https://github.com/silvio/docker-matrix) - docker image for matrix.org
 * [PeterMosmans/security-scripts](https://github.com/PeterMosmans/security-scripts) - A collection of security related Python and Bash shell scripts. Analyze hosts on generic security vulnerabilities. Wrapper around popular tools like nmap (portscanner), nikto (webscanner) and testssl.sh (SSL/TLS scanner)
-* [NullArray/MIDA-Multitool](https://github.com/NullArray/MIDA-Multitool) - Bash script purposed for system enumeration, vulnerability identification and privilege escalation.
-* [jschx/ufetch](https://github.com/jschx/ufetch) - Moved to GitLab!
+* [OzzyCzech/dotfiles](https://github.com/OzzyCzech/dotfiles) - OzzyCzech dotfiles for macOS
 * [codecov/codecov-bash](https://github.com/codecov/codecov-bash) - Global coverage report uploader for Codecov
+* [silvio/docker-matrix](https://github.com/silvio/docker-matrix) - docker image for matrix.org
+* [OutsideIT/FireMotD](https://github.com/OutsideIT/FireMotD) - :fire: Fire Framework Linux MoTD Generator :fire:
+* [jschx/ufetch](https://github.com/jschx/ufetch) - Moved to GitLab!
+* [NullArray/MIDA-Multitool](https://github.com/NullArray/MIDA-Multitool) - Bash script purposed for system enumeration, vulnerability identification and privilege escalation.
 * [miohtama/sublime-helper](https://github.com/miohtama/sublime-helper) - sublime-helper is a shell script collection to setup Sublime Text configuration files and command line aliases based on predefined templates.
-* [slashbeast/better-initramfs](https://github.com/slashbeast/better-initramfs) - Small and reliable initramfs solution supporting (remote) rescue shell, lvm, dmcrypt luks, software raid, tuxonice, uswsusp and more.
 * [magenx/Magento-2-Server-Installation](https://github.com/magenx/Magento-2-Server-Installation) - Magento 2 Server Installation - How to Install Magento 2
 * [IzzySoft/Adebar](https://github.com/IzzySoft/Adebar) - Android DEvice Backup And Report, using Bash and ADB
 * [bkuhlmann/dotfiles](https://github.com/bkuhlmann/dotfiles) - Shell scripts for applying default settings to UNIX-based operating systems.
-* [OutsideIT/FireMotD](https://github.com/OutsideIT/FireMotD) - :fire: Fire Framework Linux MoTD Generator :fire:
-* [matthiasbeyer/awesome-cli](https://github.com/matthiasbeyer/awesome-cli) - Dead. Go to https://github.com/alebcay/awesome-shell
-* [justinmayer/tackle](https://github.com/justinmayer/tackle) - Collection of fish shell functions, modules, plugins, and themes
+* [slashbeast/better-initramfs](https://github.com/slashbeast/better-initramfs) - Small and reliable initramfs solution supporting (remote) rescue shell, lvm, dmcrypt luks, software raid, tuxonice, uswsusp and more.
 * [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - programmable completion function for shell aliases;
-* [sjhcockrell/gsd](https://github.com/sjhcockrell/gsd) - WasteNoTime not working? A shell script to keep you distraction-free while you work.
+* [justinmayer/tackle](https://github.com/justinmayer/tackle) - Collection of fish shell functions, modules, plugins, and themes
 * [IcaliaLabs/kaishi](https://github.com/IcaliaLabs/kaishi) - A shell script to convert any Mac OS X or Linux computer into a real development machine
-* [alex7kom/nvm-fish](https://github.com/alex7kom/nvm-fish) - Node Version Manager for fish shell - **NO LONGER MAINTAINED, DO NOT USE** - Use https://github.com/edc/bass instead to wrap the original nvm.
 * [alphapapa/bucket](https://github.com/alphapapa/bucket) - A bucket for your shell (like a set of registers, or a clipboard manager)
+* [sjhcockrell/gsd](https://github.com/sjhcockrell/gsd) - WasteNoTime not working? A shell script to keep you distraction-free while you work.
+* [matthiasbeyer/awesome-cli](https://github.com/matthiasbeyer/awesome-cli) - Dead. Go to https://github.com/alebcay/awesome-shell
+* [katernet/darkmode](https://github.com/katernet/darkmode) - Set macOS dark mode and Alfred dark theme at sunset
+* [alex7kom/nvm-fish](https://github.com/alex7kom/nvm-fish) - Node Version Manager for fish shell - **NO LONGER MAINTAINED, DO NOT USE** - Use https://github.com/edc/bass instead to wrap the original nvm.
+* [franciscolourenco/done](https://github.com/franciscolourenco/done) - A fish plugin to automatically receive notifications when long processes finish.
 * [wschlich/bashinator](https://github.com/wschlich/bashinator) - Bashinator: Bash Shell Script Framework
+* [ghaiklor/iterm-fish-fisher-osx](https://github.com/ghaiklor/iterm-fish-fisher-osx) - Complete guide and Bash script to install Command Line Tools + Homebrew + iTerm2 + Fish Shell + Fisher + Plugins for development purposes
 * [Fakerr/goto](https://github.com/Fakerr/goto) - Navigate long command lines using a minimalistic char-based decision tree.
 * [breinhart/Lua-In-Xcode](https://github.com/breinhart/Lua-In-Xcode) - A shell script and xclanspec to add Lua syntax support in Xcode
-* [katernet/darkmode](https://github.com/katernet/darkmode) - Set macOS dark mode and Alfred dark theme at sunset
-* [franciscolourenco/done](https://github.com/franciscolourenco/done) - A fish plugin to automatically receive notifications when long processes finish.
-* [ghaiklor/iterm-fish-fisher-osx](https://github.com/ghaiklor/iterm-fish-fisher-osx) - Complete guide and Bash script to install Command Line Tools + Homebrew + iTerm2 + Fish Shell + Fisher + Plugins for development purposes
-* [matchai/spacefish](https://github.com/matchai/spacefish) - 🚀🐟 A Fish Shell prompt for Astronauts
-* [sharkdp/trigger](https://github.com/sharkdp/trigger) - Run a user-defined command on file changes
-* [blacklabelops-legacy/jenkins](https://github.com/blacklabelops-legacy/jenkins) - Docker Jenkins Swarm-Ready with HTTPS
-* [x1mdev/ReconPi](https://github.com/x1mdev/ReconPi) - ReconPi - A lightweight recon tool that performs extensive scanning with the latest tools.
-* [derekstavis/plugin-nvm](https://github.com/derekstavis/plugin-nvm) - Node version manager wrapper for Fish shell
-* [ggustafsson/Tim](https://github.com/ggustafsson/Tim) - Terminal countdown timer with several modes written in Zsh shell script.
-* [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
-* [rcmdnk/sentaku](https://github.com/rcmdnk/sentaku) - Utility to make sentaku (selection, 選択(sentaku)) window with shell command.
-* [jiangxianli/SSHAutoLogin](https://github.com/jiangxianli/SSHAutoLogin) - 一个使用expect免输入密码自动登录ssh的shell脚本，方便好用,适用Mac、Linux
 * [Heckie75/eQ-3-radiator-thermostat](https://github.com/Heckie75/eQ-3-radiator-thermostat) - Full-Featured shell script in order to control the eQ-3 radiator thermostat via linux and Raspberry Pi
-* [tmux-plugins/tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu percentage and icon indicator for Tmux.
+* [sharkdp/trigger](https://github.com/sharkdp/trigger) - Run a user-defined command on file changes
+* [jiangxianli/SSHAutoLogin](https://github.com/jiangxianli/SSHAutoLogin) - 一个使用expect免输入密码自动登录ssh的shell脚本，方便好用,适用Mac、Linux
+* [derekstavis/plugin-nvm](https://github.com/derekstavis/plugin-nvm) - Node version manager wrapper for Fish shell
+* [blacklabelops-legacy/jenkins](https://github.com/blacklabelops-legacy/jenkins) - Docker Jenkins Swarm-Ready with HTTPS
+* [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
 * [rpranshu/EternalView](https://github.com/rpranshu/EternalView) - EternalView is an all in one basic information gathering and vulnerability assessment tool
+* [haskell/ghcup](https://github.com/haskell/ghcup) - Painless installation of GHC toolchain
+* [rcmdnk/sentaku](https://github.com/rcmdnk/sentaku) - Utility to make sentaku (selection, 選択(sentaku)) window with shell command.
+* [ggustafsson/Tim](https://github.com/ggustafsson/Tim) - Terminal countdown timer with several modes written in Zsh shell script.
+* [tmux-plugins/tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu percentage and icon indicator for Tmux.
 * [rickfarmer/android-vm](https://github.com/rickfarmer/android-vm) - Automated provisioning and configuration of an Ubuntu VM containing the Android development environment, including Android ADT Bundle with SDK, Eclipse & the Android NDK using the Vagrant DevOps tool with Chef and shell-scripts.
 * [luminousmen/Kgif](https://github.com/luminousmen/Kgif) -  :neckbeard: Tool for creating gif file from capturing active window.
+* [cswl/tsu](https://github.com/cswl/tsu) - Gain root shell on Termux.
 * [abemassry/wsend-gpg](https://github.com/abemassry/wsend-gpg) - Encrypted end to end file transfer
-* [josh/senv](https://github.com/josh/senv) - Encrypted .env variables
-* [rafaelstz/simplesh](https://github.com/rafaelstz/simplesh) - :penguin: Quick installation for Ubuntu terminal.
 * [MoOx/setup](https://github.com/MoOx/setup) - My setup... dotfiles, aliases, functions, preferences, apps. Everything.
+* [kdabir/has](https://github.com/kdabir/has) - checks presence of various command line tools and their versions on the path
+* [josh/senv](https://github.com/josh/senv) - Encrypted .env variables
 * [arcticicestudio/nord-dircolors](https://github.com/arcticicestudio/nord-dircolors) - An arctic, north-bluish clean and elegant dircolors color theme.
+* [rafaelstz/simplesh](https://github.com/rafaelstz/simplesh) - :penguin: Quick installation for Ubuntu terminal.
 * [Neilpang/startapi.sh](https://github.com/Neilpang/startapi.sh) - A pure unix shell script for automatied startssl free certificate client
 * [Anvil/bash-argsparse](https://github.com/Anvil/bash-argsparse) - An high level argument parsing library for bash
 * [ramnes/context-color](https://github.com/ramnes/context-color) - :rainbow: To each context its own shell color
 * [nyarly/simplekey](https://github.com/nyarly/simplekey) - Compatible shell scripts to make GnuPG more accessible and easier to use.
 * [gliyao/SketchToXcode](https://github.com/gliyao/SketchToXcode) - Exporting assets(App icon and icons) from sketch to your Xcode Images.xcassets via shell script.
-* [tokyoneon/Armor](https://github.com/tokyoneon/Armor) - Armor is a simple Bash script designed to create encrypted macOS payloads capable of evading antivirus scanners.
-* [jlrodriguezf/WhatsPwn](https://github.com/jlrodriguezf/WhatsPwn) - Linux tool used to extract sensitive data, inject backdoor or drop remote shells on android devices.
+* [connermcd/gtd](https://github.com/connermcd/gtd) - A simple shell script for effective time management.
+* [TunisianEagles/winspy](https://github.com/TunisianEagles/winspy) - WinSpy a Windows reverse shell Backdoor creator with an Automatic IP Poisener
+* [gmacario/easy-build](https://github.com/gmacario/easy-build) - Collection of Dockerfiles for building embedded software distributions
 * [cornerpirate/socat-shell](https://github.com/cornerpirate/socat-shell) - Socat can be used to establish a reverse shell with bash tab completion and full shell functionality
+* [jlrodriguezf/WhatsPwn](https://github.com/jlrodriguezf/WhatsPwn) - Linux tool used to extract sensitive data, inject backdoor or drop remote shells on android devices.
 * [tobiasBora/Scribd-downloader](https://github.com/tobiasBora/Scribd-downloader) - A little shell script to download a pdf file from a scribd document. This script isn't perfect, but it's enough for me.
 * [mattstauffer/syncCraft](https://github.com/mattstauffer/syncCraft) - Simple shell script to sync Craft DB & assets down locally
-* [gmacario/easy-build](https://github.com/gmacario/easy-build) - Collection of Dockerfiles for building embedded software distributions
 * [dysosmus/ansible-completion](https://github.com/dysosmus/ansible-completion) - Basic bash completion for Ansible
-* [cswl/tsu](https://github.com/cswl/tsu) - Gain root shell on Termux.
+* [arcticicestudio/nord-gnome-terminal](https://github.com/arcticicestudio/nord-gnome-terminal) - An arctic, north-bluish clean and elegant GNOME Terminal color theme.
 * [alebcay/pushblast](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits.
-* [TunisianEagles/winspy](https://github.com/TunisianEagles/winspy) - WinSpy a Windows reverse shell Backdoor creator with an Automatic IP Poisener
-* [joewalnes/go-getter](https://github.com/joewalnes/go-getter) - Like 'go get' but with pinned package versions. A tiny shell script.
-* [connermcd/gtd](https://github.com/connermcd/gtd) - A simple shell script for effective time management.
 * [six-ddc/v2ex-shell-client](https://github.com/six-ddc/v2ex-shell-client) - A v2ex command-line client for shell
 * [qbit/snap](https://github.com/qbit/snap) - OpenBSD upgrade tool (OpenBSD,Shell)
-* [spf-tools/spf-tools](https://github.com/spf-tools/spf-tools) - Scripts for taming the SPF (Sender Policy Framework) records in DNS in order to fight 10-maximum-DNS-look-ups limit.
-* [jorgebucaran/fish-spin](https://github.com/jorgebucaran/fish-spin) - Background job spinner for fish-shell
-* [benmarten/Monokai_Fish_OSX](https://github.com/benmarten/Monokai_Fish_OSX) - Monokai Theme for OS X Terminal & Fish Shell
-* [arcticicestudio/nord-gnome-terminal](https://github.com/arcticicestudio/nord-gnome-terminal) - An arctic, north-bluish clean and elegant GNOME Terminal color theme.
+* [joewalnes/go-getter](https://github.com/joewalnes/go-getter) - Like 'go get' but with pinned package versions. A tiny shell script.
 * [geekcomputers/Shell](https://github.com/geekcomputers/Shell) - Some of the handy shell scripts I have created/acquired
-* [denny0223/scrabble](https://github.com/denny0223/scrabble) - Simple tool to recover .git folder from remote server
-* [connermcd/notes](https://github.com/connermcd/notes) - Shell script for compiling pdf/html notes with pandoc.
-* [tlrobinson/martin.sh](https://github.com/tlrobinson/martin.sh) - A simple web server and Sinatra-like microframework written in shell script. Why? WHY NOT?
-* [kdabir/has](https://github.com/kdabir/has) - checks presence of various command line tools and their versions on the path
+* [spf-tools/spf-tools](https://github.com/spf-tools/spf-tools) - Scripts for taming the SPF (Sender Policy Framework) records in DNS in order to fight 10-maximum-DNS-look-ups limit.
+* [benmarten/Monokai_Fish_OSX](https://github.com/benmarten/Monokai_Fish_OSX) - Monokai Theme for OS X Terminal & Fish Shell
 * [athlite/sqlite3-to-mysql](https://github.com/athlite/sqlite3-to-mysql) - Make an Sqlite3 export MySQL readable.
+* [jorgebucaran/fish-spin](https://github.com/jorgebucaran/fish-spin) - Background job spinner for fish-shell
+* [denny0223/scrabble](https://github.com/denny0223/scrabble) - Simple tool to recover .git folder from remote server
+* [Spearfoot/FreeNAS-scripts](https://github.com/Spearfoot/FreeNAS-scripts) - Handy shell scripts for use on FreeNAS servers
+* [PhrozenByte/rmtrash](https://github.com/PhrozenByte/rmtrash) - Put files (and directories) in trash using the `trash-put` command in a way that is, otherwise as `trash-put` itself, compatible to GNUs `rm` and `rmdir`
 * [0rax/fish-bd](https://github.com/0rax/fish-bd) - Quickly go back to a parent directory up in your current working directory tree. Don't write 'cd ../../..' redundantly, use bd instead.
 * [tobykurien/NSA_b_gone](https://github.com/tobykurien/NSA_b_gone) - A Linux shell script to improve your privacy online
-* [Spearfoot/FreeNAS-scripts](https://github.com/Spearfoot/FreeNAS-scripts) - Handy shell scripts for use on FreeNAS servers
-* [seebi/rdf.sh](https://github.com/seebi/rdf.sh) - A multi-tool shell script for doing Semantic Web jobs on the command line.
+* [tlrobinson/martin.sh](https://github.com/tlrobinson/martin.sh) - A simple web server and Sinatra-like microframework written in shell script. Why? WHY NOT?
 * [primaryobjects/vpndemon](https://github.com/primaryobjects/vpndemon) - Monitor a VPN connection on Linux and kill a process upon disconnect
-* [PhrozenByte/rmtrash](https://github.com/PhrozenByte/rmtrash) - Put files (and directories) in trash using the `trash-put` command in a way that is, otherwise as `trash-put` itself, compatible to GNUs `rm` and `rmdir`
-* [kvz/ochtra](https://github.com/kvz/ochtra) - One Commit Hook To Rule All
+* [seebi/rdf.sh](https://github.com/seebi/rdf.sh) - A multi-tool shell script for doing Semantic Web jobs on the command line.
 * [hannob/tlshelpers](https://github.com/hannob/tlshelpers) - A collection of shell scripts that help handling X.509 certificate and TLS issues
-* [gheift/ght-acme.sh](https://github.com/gheift/ght-acme.sh) - a linux shell script to sign certifactes by the letsencrypt CA
 * [geerlingguy/JJG-Ansible-Windows](https://github.com/geerlingguy/JJG-Ansible-Windows) - [DEPRECATED] Windows shell provisioning script to bootstrap Ansible from within a Vagrant VM.
+* [connermcd/notes](https://github.com/connermcd/notes) - Shell script for compiling pdf/html notes with pandoc.
+* [trapd00r/zsh-syntax-highlighting-filetypes](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) - zsh syntax highlighting with dircolors in realtime
+* [kvz/ochtra](https://github.com/kvz/ochtra) - One Commit Hook To Rule All
+* [ivandavidov/minimal-linux-script](https://github.com/ivandavidov/minimal-linux-script) - One script which generates live Linux ISO image with minimal effort. Based on the first published version of Minimal Linux Live: http://github.com/ivandavidov/minimal
+* [gheift/ght-acme.sh](https://github.com/gheift/ght-acme.sh) - a linux shell script to sign certifactes by the letsencrypt CA
+* [ash-shell/ash](https://github.com/ash-shell/ash) - :shell: A Modular Bash Framework
+* [aa335418265/IPABuildShell](https://github.com/aa335418265/IPABuildShell) - IPABuildShell  一个强大的、轻量的 iOS 自动打包工具，无需手动指定授权文件和证书
 * [ValeriyKr/sfb](https://github.com/ValeriyKr/sfb) - Flappy Bird clone, written in sed
 * [mm2270/CasperSuiteScripts](https://github.com/mm2270/CasperSuiteScripts) - A collection of shell scripts created for use in Casper Suite and elsewhere
-* [ash-shell/ash](https://github.com/ash-shell/ash) - :shell: A Modular Bash Framework
-* [pathikrit/mac-setup-script](https://github.com/pathikrit/mac-setup-script) - script to setup my mac
-* [ivandavidov/minimal-linux-script](https://github.com/ivandavidov/minimal-linux-script) - One script which generates live Linux ISO image with minimal effort. Based on the first published version of Minimal Linux Live: http://github.com/ivandavidov/minimal
-* [haskell/ghcup](https://github.com/haskell/ghcup) - Painless installation of GHC toolchain
 * [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - Updates, maintenance, backups and system checks in a TUI menu driven  bash shell  script for an Arch based Linux distro
-* [aa335418265/IPABuildShell](https://github.com/aa335418265/IPABuildShell) - IPABuildShell  一个强大的、轻量的 iOS 自动打包工具，无需手动指定授权文件和证书
-* [icy/bocker](https://github.com/icy/bocker) - Write Dockerfile completely in Bash/Bourne. Extensible and simple.
 * [rsp/scripts](https://github.com/rsp/scripts) - Random shell scripts for different tasks
 * [RenatGilmanov/shell-script-template](https://github.com/RenatGilmanov/shell-script-template) - Simple (and hopefully useful) shell script template
+* [pathikrit/mac-setup-script](https://github.com/pathikrit/mac-setup-script) - script to setup my mac
+* [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals) - Hack any Captive portal using MAC-spoofing technique
+* [sysdevploit/put2win](https://github.com/sysdevploit/put2win) - Script to automatize shell upload by PUT HTTP method to get meterpreter
 * [pstadler/metrics.sh](https://github.com/pstadler/metrics.sh) - Collect and forward metrics using portable shell scripts
+* [jaywcjlove/shell-tutorial](https://github.com/jaywcjlove/shell-tutorial) - Shell入门教程（Shell tutorial book）
+* [icy/bocker](https://github.com/icy/bocker) - Write Dockerfile completely in Bash/Bourne. Extensible and simple.
 * [flaupretre/sysfunc](https://github.com/flaupretre/sysfunc) - A sysadmin-oriented shell library
 * [esemeniuc/ezpptp](https://github.com/esemeniuc/ezpptp) - Easy PPTP VPN setup script for Debian based VPS
-* [holman/bandwidth-friends](https://github.com/holman/bandwidth-friends) - A shell script for macOS that makes sure you are being nice to your nice coffeeshop internet neighbors. 💖
-* [fnando/dotfiles](https://github.com/fnando/dotfiles) - My dotfiles
 * [dalibo/pitrery](https://github.com/dalibo/pitrery) - PostgreSQL Point In Time Recovery made easy
 * [zxui/shell](https://github.com/zxui/shell) - :maple_leaf:  Centos运维常用工具
-* [sysdevploit/put2win](https://github.com/sysdevploit/put2win) - Script to automatize shell upload by PUT HTTP method to get meterpreter
-* [trapd00r/zsh-syntax-highlighting-filetypes](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) - zsh syntax highlighting with dircolors in realtime
-* [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals) - Hack any Captive portal using MAC-spoofing technique
 * [snwh/fedora-post-install](https://github.com/snwh/fedora-post-install) - A set of post-installation shell scripts for Fedora
-* [ftpgrab/ftpgrab](https://github.com/ftpgrab/ftpgrab) - ⚡ Shell script to grab your files from a remote FTP server to your NAS / server / computer
+* [holman/bandwidth-friends](https://github.com/holman/bandwidth-friends) - A shell script for macOS that makes sure you are being nice to your nice coffeeshop internet neighbors. 💖
+* [fnando/dotfiles](https://github.com/fnando/dotfiles) - My dotfiles
+* [vlevit/notify-send.sh](https://github.com/vlevit/notify-send.sh) - drop-in replacement for notify-send with more features
 * [tony/.dot-config](https://github.com/tony/.dot-config) - :books: Example dot configs for tmux, tmuxp, vim, vcspull, i3 and awesome
 * [techwizrd/fishmarks](https://github.com/techwizrd/fishmarks) - Bookmark and jump to directories faster than a sailfish! Fishmarks is a clone of bashmarks for the Fish shell.
 * [sudar/wp-plugin-in-github](https://github.com/sudar/wp-plugin-in-github) - Collection of shell scripts that I am using to manage and deploy WordPress Plugins from github into svn
-* [AdnanHodzic/android-sdk-installer](https://github.com/AdnanHodzic/android-sdk-installer) - Linux utility which aims to automatically install and configures Android SDK, Eclipse ADT Plugin, adds hardware support for devices and enables full MTP support.
-* [vlevit/notify-send.sh](https://github.com/vlevit/notify-send.sh) - drop-in replacement for notify-send with more features
+* [ftpgrab/ftpgrab](https://github.com/ftpgrab/ftpgrab) - ⚡ Shell script to grab your files from a remote FTP server to your NAS / server / computer
 * [spencertipping/cd](https://github.com/spencertipping/cd) - A better "cd" for bash
-* [Gisto/nwjs-shell-builder](https://github.com/Gisto/nwjs-shell-builder) - NW.js (node-webkit) shell script builder and packager scripts
+* [junbaor/shell_script](https://github.com/junbaor/shell_script) - 一键安装 shadowsocks，支持 chacha20-ietf-poly1305 加密方式
 * [ddddavidmartin/Pre-commit-hooks](https://github.com/ddddavidmartin/Pre-commit-hooks) - A set of useful (and documented!) git pre-commit hooks.
 * [caarlos0/jvm](https://github.com/caarlos0/jvm) - Never manually change your JAVA_HOME again
 * [brunelli/gnome-shell-extension-installer](https://github.com/brunelli/gnome-shell-extension-installer) - A bash script to search and install extensions from extensions.gnome.org
-* [bittorf/kalua](https://github.com/bittorf/kalua) - hardware-independent openWRT-extension (using POSIX-shell as main-language) for setting up, monitor and manage many, large wifi-mesh-networks for different locations including billing, captive portal / splash screen / weblogin, accounting, data retention and layer7/8-QoS
 * [amsehili/gspeech-rec](https://github.com/amsehili/gspeech-rec) - An all-in-one shell script to use Google Speech Recognition API v2
-* [zpm-zsh/autoenv](https://github.com/zpm-zsh/autoenv) - Autoenv for zsh
+* [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
+* [AdnanHodzic/android-sdk-installer](https://github.com/AdnanHodzic/android-sdk-installer) - Linux utility which aims to automatically install and configures Android SDK, Eclipse ADT Plugin, adds hardware support for devices and enables full MTP support.
 * [wffls/waffles](https://github.com/wffls/waffles) - Bash Configuration Management
-* [jaywcjlove/shell-tutorial](https://github.com/jaywcjlove/shell-tutorial) - Shell入门教程（Shell tutorial book）
-* [fagiani/shellstack](https://github.com/fagiani/shellstack) - ShellStack is a collection of bash scripts to install apps on ubuntu linux
+* [Spearfoot/disk-burnin-and-testing](https://github.com/Spearfoot/disk-burnin-and-testing) - Shell script for burn-in and testing of new or re-purposed drives
+* [hagen1778/grafana-import-export](https://github.com/hagen1778/grafana-import-export) - shell scripts for importing and exporting Grafana's dashboards and datasources
+* [Gisto/nwjs-shell-builder](https://github.com/Gisto/nwjs-shell-builder) - NW.js (node-webkit) shell script builder and packager scripts
 * [edouard-lopez/progress-bar.sh](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progress bar for `bash`, give it a duration and it will do the rest.
+* [brigand/fast-nvm-fish](https://github.com/brigand/fast-nvm-fish) - a wrapper around node version manager for fish shell with good performance
+* [bittorf/kalua](https://github.com/bittorf/kalua) - hardware-independent openWRT-extension (using POSIX-shell as main-language) for setting up, monitor and manage many, large wifi-mesh-networks for different locations including billing, captive portal / splash screen / weblogin, accounting, data retention and layer7/8-QoS
+* [zpm-zsh/autoenv](https://github.com/zpm-zsh/autoenv) - Autoenv for zsh
+* [wulabing/SSR-manyuser_glzjin_shell](https://github.com/wulabing/SSR-manyuser_glzjin_shell) - sspanel v3 魔改版 后端一键安装配置管理脚本
+* [rsvp/speedtest-linux](https://github.com/rsvp/speedtest-linux) - Get download/upload speeds via speedtest.net or fast.com from command line using Bash script -- suitable for logs. POSIX OSX Linux
+* [KHP-Informatics/ngseasy](https://github.com/KHP-Informatics/ngseasy) - Dockerised Next Generation Sequencing Pipeline (QC, Align, Calling, Annotation)
+* [fagiani/shellstack](https://github.com/fagiani/shellstack) - ShellStack is a collection of bash scripts to install apps on ubuntu linux
 * [dagon666/napi](https://github.com/dagon666/napi) - Napi Projekt Client and Subotage subtitle format converter both written in bash
 * [cytopia/thunar-custom-actions](https://github.com/cytopia/thunar-custom-actions) - Custom actions for Thunar (or Nautilus) File manager
 * [aspiers/shell-env](https://github.com/aspiers/shell-env) - Adam's shell environment (bash/zsh) including a bunch of handy home-made utilities
-* [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
 * [sakshamsharma/zpyi](https://github.com/sakshamsharma/zpyi) - The power of python in your Zsh - Unobtrusive and easy python scripting in shell
-* [rsvp/speedtest-linux](https://github.com/rsvp/speedtest-linux) - Get download/upload speeds via speedtest.net or fast.com from command line using Bash script -- suitable for logs. POSIX OSX Linux
-* [KHP-Informatics/ngseasy](https://github.com/KHP-Informatics/ngseasy) - Dockerised Next Generation Sequencing Pipeline (QC, Align, Calling, Annotation)
-* [hagen1778/grafana-import-export](https://github.com/hagen1778/grafana-import-export) - shell scripts for importing and exporting Grafana's dashboards and datasources
 * [bggo/Zmbkpose](https://github.com/bggo/Zmbkpose) - The zmbkpose tool is a shell script that does hot backup and hot restore of ZCS Opensource accounts, GPL(OPENSOURCE). It can run from any host in the net, which means that it can be set on a backup server already existent.
 * [TMRJIJ/Night-Shift-on-Unsupported-Macs](https://github.com/TMRJIJ/Night-Shift-on-Unsupported-Macs) - Enable Night Shift on older Macs.
-* [Spearfoot/disk-burnin-and-testing](https://github.com/Spearfoot/disk-burnin-and-testing) - Shell script for burn-in and testing of new or re-purposed drives
-* [santoshbaggam/stacker](https://github.com/santoshbaggam/stacker) - Hassle-free server setup for Developers
 * [liunian1004/shell](https://github.com/liunian1004/shell) - bash shell script.
-* [junbaor/shell_script](https://github.com/junbaor/shell_script) - 一键安装 shadowsocks，支持 chacha20-ietf-poly1305 加密方式
-* [wulabing/SSR-manyuser_glzjin_shell](https://github.com/wulabing/SSR-manyuser_glzjin_shell) - sspanel v3 魔改版 后端一键安装配置管理脚本
-* [dlang/installer](https://github.com/dlang/installer) - dmd installers for various systems
-* [brigand/fast-nvm-fish](https://github.com/brigand/fast-nvm-fish) - a wrapper around node version manager for fish shell with good performance
 * [4bitfocus/asc-key-to-qr-code](https://github.com/4bitfocus/asc-key-to-qr-code) - Shell scripts to convert between ascii armor PGP keys and QR codes for paper backup
+* [shannonmoeller/up](https://github.com/shannonmoeller/up) - Quickly navigate to a parent directory via tab-completion.
+* [santoshbaggam/stacker](https://github.com/santoshbaggam/stacker) - Hassle-free server setup for Developers
+* [kobe1941/shell](https://github.com/kobe1941/shell) - 一个根据linkMap文件计算Xcode里各个工程代码占安装包大小的工具
 * [javier-lopez/shundle](https://github.com/javier-lopez/shundle) - shundle is a plugin manager for general purpose shells
+* [dlang/installer](https://github.com/dlang/installer) - dmd installers for various systems
+* [rgomezcasas/dotfiles](https://github.com/rgomezcasas/dotfiles) - :penguin: dotfiles - Config files for my *nix systems
+* [jnewland/kubernetes-pod-chaos-monkey](https://github.com/jnewland/kubernetes-pod-chaos-monkey) - Randomly delete pods in a given namespace
 * [bolknote/shellgames](https://github.com/bolknote/shellgames) - Some bash games
 * [zma/usefulscripts](https://github.com/zma/usefulscripts) - Useful script and configuration files.
 * [toniblyx/alfresco-backup-and-recovery-tool](https://github.com/toniblyx/alfresco-backup-and-recovery-tool) - Alfresco BART is a tool written in shell script on top of Duplicity to do Alfresco backups and restore from a local file system, FTP, SCP or Amazon S3.
-* [rgomezcasas/dotfiles](https://github.com/rgomezcasas/dotfiles) - :penguin: dotfiles - Config files for my *nix systems
 * [rcrowley/json.sh](https://github.com/rcrowley/json.sh) - Pure-shell JSON parser
 * [nicolinuxfr/macOS-post-installation](https://github.com/nicolinuxfr/macOS-post-installation) - Script d'installation et de configuration d'un Mac
-* [jnewland/kubernetes-pod-chaos-monkey](https://github.com/jnewland/kubernetes-pod-chaos-monkey) - Randomly delete pods in a given namespace
-* [shannonmoeller/up](https://github.com/shannonmoeller/up) - Quickly navigate to a parent directory via tab-completion.
+* [mritd/shell_scripts](https://github.com/mritd/shell_scripts) - 常用的一些 shell 脚本
+* [kevinSuttle/dotfiles](https://github.com/kevinSuttle/dotfiles) - My humble list of ~/.dotfiles: an opinionated attempt for a cross-shell setup.
+* [tripflex/inodes](https://github.com/tripflex/inodes) - Bash/Shell script to count inode usage
 * [rcrowley/mustache.sh](https://github.com/rcrowley/mustache.sh) - Mustache in POSIX shell
 * [qzb/is.sh](https://github.com/qzb/is.sh) - Human readable conditions for bash
+* [nhoffman/argparse-bash](https://github.com/nhoffman/argparse-bash) - Use python's argparse module in shell scripts
 * [monitisexchange/Monitis-Linux-Scripts](https://github.com/monitisexchange/Monitis-Linux-Scripts) - Shell Script to Extend or Automate Monitis
-* [kobe1941/shell](https://github.com/kobe1941/shell) - 一个根据linkMap文件计算Xcode里各个工程代码占安装包大小的工具
-* [kevinSuttle/dotfiles](https://github.com/kevinSuttle/dotfiles) - My humble list of ~/.dotfiles: an opinionated attempt for a cross-shell setup.
+* [levinit/itnotes](https://github.com/levinit/itnotes) - 个人笔记，IT相关。
 * [JeanMertz/chruby-fish](https://github.com/JeanMertz/chruby-fish) - Thin wrapper around chruby to make it work with the Fish shell
 * [GArik/bash-completion](https://github.com/GArik/bash-completion) - programmable completion for the bash shell
 * [bltavares/kickstart](https://github.com/bltavares/kickstart) - Agentless configuration manager in Bash
-* [tripflex/inodes](https://github.com/tripflex/inodes) - Bash/Shell script to count inode usage
-* [nhoffman/argparse-bash](https://github.com/nhoffman/argparse-bash) - Use python's argparse module in shell scripts
-* [mritd/shell_scripts](https://github.com/mritd/shell_scripts) - 常用的一些 shell 脚本
 * [mhauri/generate-modman](https://github.com/mhauri/generate-modman) - Shell script to generate modman files for Magento Extensions
-* [emarref/webicon](https://github.com/emarref/webicon) - Generate favicon and touch icons via a shell script
-* [levinit/itnotes](https://github.com/levinit/itnotes) - 个人笔记，IT相关。
-* [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - :wrench: macOS / Kubuntu / Ubuntu Server dotfiles for Python developers.
 * [inquisb/unix-privesc-check](https://github.com/inquisb/unix-privesc-check) - Shell script that runs on UNIX systems (tested on Solaris 9, HPUX 11, various Linux distributions, FreeBSD 6.2). It detects misconfigurations that could allow local unprivileged user to escalate to other users (e.g. root) or to access local apps (e.g. databases). This is a collaborative rework of version 1.0
-* [Autorevision/autorevision](https://github.com/Autorevision/autorevision) - A script for extracting version information useful in release/build scripting.
-* [Superbil/build-lame-for-iOS](https://github.com/Superbil/build-lame-for-iOS) - Build lame for iOS
-* [jonhoo/streamsh](https://github.com/jonhoo/streamsh) - Download online video streams using shell
-* [doubaokun/dockers](https://github.com/doubaokun/dockers) - Docker hello world templates
-* [asb/sh-todo](https://github.com/asb/sh-todo) - A minimal todo-list manager written in POSIX shell
+* [emarref/webicon](https://github.com/emarref/webicon) - Generate favicon and touch icons via a shell script
+* [liungkejin/Bash-Games](https://github.com/liungkejin/Bash-Games) - LINUX终端下的贪吃蛇(Snake), 屏保(ClockSaver), 俄罗斯方块(Tetris)游戏(使用Bash shell编写)
 * [kickstarter/laptop](https://github.com/kickstarter/laptop) - A shell script which turns your OS X laptop into an awesome web development machine
+* [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - :wrench: macOS / Kubuntu / Ubuntu Server dotfiles for Python developers.
+* [Autorevision/autorevision](https://github.com/Autorevision/autorevision) - A script for extracting version information useful in release/build scripting.
+* [asb/sh-todo](https://github.com/asb/sh-todo) - A minimal todo-list manager written in POSIX shell
+* [Superbil/build-lame-for-iOS](https://github.com/Superbil/build-lame-for-iOS) - Build lame for iOS
+* [pstadler/ticker.sh](https://github.com/pstadler/ticker.sh) - Real-time stock tickers from the command-line.
+* [jorgebucaran/FISH-get](https://github.com/jorgebucaran/FISH-get) - Interactive prompt reader for fish-shell
+* [jonhoo/streamsh](https://github.com/jonhoo/streamsh) - Download online video streams using shell
+* [grml/grml-live](https://github.com/grml/grml-live) - build system for creating a Grml (based) live system
+* [doubaokun/dockers](https://github.com/doubaokun/dockers) - Docker hello world templates
+* [neuronalmotion/qtrpi](https://github.com/neuronalmotion/qtrpi) - An easy-to-use environment to cross-compile Qt applications for Raspberry Pi from your desktop.
+* [laughedelic/pisces](https://github.com/laughedelic/pisces) - ♓️Fish shell plugin that helps you to work with paired symbols in the command line
 * [illusori/bash-itunes](https://github.com/illusori/bash-itunes) - Shell script to control iTunes from the command-line.
+* [h46incon/AliDDNSBash](https://github.com/h46incon/AliDDNSBash) - 阿里云域名解析动态更新（DDNS）的 Shell 脚本
 * [emerleite/mongo-migrate](https://github.com/emerleite/mongo-migrate) - MongoDB Migration using shell
+* [coderofsalvation/powscript](https://github.com/coderofsalvation/powscript) - transpiler written in bash: painless shellscript, indentbased, coffee for the shell with hipster-sparkles v1 BETA LANDED 🎉🎉🎉🎉 thanks fcard!
 * [alexanderepstein/Sandman-Lite](https://github.com/alexanderepstein/Sandman-Lite) - A Lightweight Script Built With Late Night Developers In Mind
 * [roperzh/heroku-buildpack-hugo](https://github.com/roperzh/heroku-buildpack-hugo) - Heroku buildpack for Hugo, the static site generator - https://github.com/spf13/hugo
-* [liungkejin/Bash-Games](https://github.com/liungkejin/Bash-Games) - LINUX终端下的贪吃蛇(Snake), 屏保(ClockSaver), 俄罗斯方块(Tetris)游戏(使用Bash shell编写)
-* [jorgebucaran/FISH-get](https://github.com/jorgebucaran/FISH-get) - Interactive prompt reader for fish-shell
-* [grml/grml-live](https://github.com/grml/grml-live) - build system for creating a Grml (based) live system
 * [robb/.dotfiles](https://github.com/robb/.dotfiles) - These are my .dotfiles. There are many like them, but these ones are mine.
-* [pstadler/ticker.sh](https://github.com/pstadler/ticker.sh) - Real-time stock tickers from the command-line.
-* [neuronalmotion/qtrpi](https://github.com/neuronalmotion/qtrpi) - An easy-to-use environment to cross-compile Qt applications for Raspberry Pi from your desktop.
-* [coderofsalvation/powscript](https://github.com/coderofsalvation/powscript) - transpiler written in bash: painless shellscript, indentbased, coffee for the shell with hipster-sparkles v1 BETA LANDED 🎉🎉🎉🎉 thanks fcard!
+* [chromedp/docker-headless-shell](https://github.com/chromedp/docker-headless-shell) - Minimal container for Chrome's headless shell, useful for automating / driving the web
+* [brianpcurran/gandi-automatic-dns](https://github.com/brianpcurran/gandi-automatic-dns) - A Bourne shell script to update Gandi.net zonefiles
 * [betweenbrain/linux-stuff](https://github.com/betweenbrain/linux-stuff) - A collection of Linux tricks, tips, shell scripts, and general knowledge collected from around the web and from my own personal turmoil of breaking stuff and having to fix it.
+* [arzzen/calc.plugin.zsh](https://github.com/arzzen/calc.plugin.zsh) - zsh calculator - with support for basic math
 * [ankitvad/goto](https://github.com/ankitvad/goto) - Linux Shell 'cd' replacement tool. cd on steroids, with fuzzy file finder and a directory bookmark saver.
 * [sirjaren/redoflacs](https://github.com/sirjaren/redoflacs) - Parallel BASH commandline FLAC compressor, verifier, organizer, analyzer, and retagger
 * [pronoiac/tarsnap-cron](https://github.com/pronoiac/tarsnap-cron) - Cron scripts (bash/shell) for tarsnap backup, including scheduled deletion of old backups.
 * [pontikis/bash-cloud-backup](https://github.com/pontikis/bash-cloud-backup) - bash-cloud-backup is a set of bash scripts, which can be used to automate local and cloud backup in Linux/Unix machines.
-* [pmalves/ctools-installer](https://github.com/pmalves/ctools-installer) - Shell script that installs the CTools
 * [PaulKinlan/chromium-android-installer](https://github.com/PaulKinlan/chromium-android-installer) - Install Chromium Test Shell on Android
-* [laughedelic/pisces](https://github.com/laughedelic/pisces) - ♓️Fish shell plugin that helps you to work with paired symbols in the command line
-* [chromedp/docker-headless-shell](https://github.com/chromedp/docker-headless-shell) - Minimal container for Chrome's headless shell, useful for automating / driving the web
+* [janosgyerik/shellscripts](https://github.com/janosgyerik/shellscripts) - Convenient shell scripts for everyday use, written in Bash, Perl, awk, Python
 * [blueimp/shell-scripts](https://github.com/blueimp/shell-scripts) - A collection of (mostly POSIX compatible) shell scripts.
 * [Ardakilic/backmeup](https://github.com/Ardakilic/backmeup) - BackMeUp: An automated MySQL / MariaDB databases and files backup solution on *nix Machines using Amazon S3, ownCloud / NextCloud and Dropbox.
+* [Statemood/jenkins](https://github.com/Statemood/jenkins) - Jenkins Shell & Pipeline scripts for FreeStyle & Pipeline jobs
 * [ryanuber/slide.sh](https://github.com/ryanuber/slide.sh) - Create simple, text-based slide decks in your shell
+* [pmalves/ctools-installer](https://github.com/pmalves/ctools-installer) - Shell script that installs the CTools
 * [outime/ipv6-dhclient-script](https://github.com/outime/ipv6-dhclient-script) - IPv6 w/ dhclient configuration script (Debian/RedHat-based distros)
-* [janosgyerik/shellscripts](https://github.com/janosgyerik/shellscripts) - Convenient shell scripts for everyday use, written in Bash, Perl, awk, Python
-* [h46incon/AliDDNSBash](https://github.com/h46incon/AliDDNSBash) - 阿里云域名解析动态更新（DDNS）的 Shell 脚本
 * [Fleshgrinder/nginx-sysvinit-script](https://github.com/Fleshgrinder/nginx-sysvinit-script) - Linux Standard Base compliant SysVinit script for nginx.
 * [clburlison/scripts](https://github.com/clburlison/scripts) - 💡 A collection of random scripts.
-* [brianpcurran/gandi-automatic-dns](https://github.com/brianpcurran/gandi-automatic-dns) - A Bourne shell script to update Gandi.net zonefiles
 * [arzzen/pert](https://github.com/arzzen/pert) - A simple command line (bash/shell) utility to estimate tasks using PERT
-* [arzzen/calc.plugin.zsh](https://github.com/arzzen/calc.plugin.zsh) - zsh calculator - with support for basic math
-* [AdrianDC/android_development_shell_tools](https://github.com/AdrianDC/android_development_shell_tools) - Development Shell Tools - http://adriandc.github.io/android_development_shell_tools
+* [AdrianDC/advanced_development_shell_tools](https://github.com/AdrianDC/advanced_development_shell_tools) - http://adriandc.github.io/advanced_development_shell_tools
 * [ronalde/mpd-configure](https://github.com/ronalde/mpd-configure) - Bash scripts to assist users of mpd to configure it as an audiophile bit perfect music player.
 * [jonnyhsy/imagecrawler](https://github.com/jonnyhsy/imagecrawler) - An image crawler implemented in shell script
 * [holman/eponine](https://github.com/holman/eponine) - A very simple web server interface to shell scripts. Designed for Slack integrations on a Raspberry Pi.
 * [fabiomaia/fix-spotify-icon](https://github.com/fabiomaia/fix-spotify-icon) - :musical_note: Shell script to fix the Spotify icon in Ubuntu.
 * [endofzero/Minecraft-Sheller](https://github.com/endofzero/Minecraft-Sheller) - Shell script designed to allow for automation of Minecraft Server Administration.
-* [abs0/wargames](https://github.com/abs0/wargames) - Shell script to simulate the W.O.P.R. computer from WarGames (wopr)
-* [abemassry/wsend](https://github.com/abemassry/wsend) - wsend: The opposite of wget
-* [treffynnon/Benchmark-PHP-HHVM-Zephir](https://github.com/treffynnon/Benchmark-PHP-HHVM-Zephir) - Benchmark PHP, HHVM and Zephir
 * [duydo/evm](https://github.com/duydo/evm) - A Simple Elasticsearch Version Manager
 * [daenney/pyenv](https://github.com/daenney/pyenv) - Pyenv support plugin for fish-shell
-* [Bilalh/shellmarks](https://github.com/Bilalh/shellmarks) - Directory bookmarks for the shell
+* [abs0/wargames](https://github.com/abs0/wargames) - Shell script to simulate the W.O.P.R. computer from WarGames (wopr)
+* [abemassry/wsend](https://github.com/abemassry/wsend) - wsend: The opposite of wget
 * [zsenliao/shellMonitor](https://github.com/zsenliao/shellMonitor) - 一个 Linux 下基于 Bash 的文件和数据库监控及备份工具，可发送微信报警通知
-* [Statemood/jenkins](https://github.com/Statemood/jenkins) - Jenkins Shell & Pipeline scripts for FreeStyle & Pipeline jobs
+* [treffynnon/Benchmark-PHP-HHVM-Zephir](https://github.com/treffynnon/Benchmark-PHP-HHVM-Zephir) - Benchmark PHP, HHVM and Zephir
+* [lixuy/CloudXNS-DDNS-with-BashShell](https://github.com/lixuy/CloudXNS-DDNS-with-BashShell) - The CloudXNS DDNS with BashShell
+* [csev/uninstall-python3](https://github.com/csev/uninstall-python3) - A Simple Shell Script to Uninstall Python 3 versions from Mac OS/X
+* [Bilalh/shellmarks](https://github.com/Bilalh/shellmarks) - Directory bookmarks for the shell
+* [starrhorne/Fish-Shell-Scripts](https://github.com/starrhorne/Fish-Shell-Scripts) - My personal fish shell scripts
 * [jqr/dotfiles](https://github.com/jqr/dotfiles) - Super bad-ass dotfiles for any Ruby/Rails/Git/OSX user.
+* [excalibur1234/pacui](https://github.com/excalibur1234/pacui) - Bash script providing advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Pacaur functionality in a simple UI
 * [Dieterbe/libui-sh](https://github.com/Dieterbe/libui-sh) - a shell library providing useful UI functions
 * [betweenbrain/ubuntu-web-server-build-script](https://github.com/betweenbrain/ubuntu-web-server-build-script) - A hand-rolled shell script to help you get up and running quickly with an Ubuntu web server. Specifically geared for Ubuntu 10.04 LTS 32-bit. Please note: This is not intended to be a complete and comprehensive solution, but a starting point for your custom server.
-* [arcticicestudio/nord-termite](https://github.com/arcticicestudio/nord-termite) - An arctic, north-bluish clean and elegant Termite color theme.
+* [aurasphere/mongodb-university-classes](https://github.com/aurasphere/mongodb-university-classes) - Courseware and solutions of problems from MongoDB University's classes that I've attended.
 * [trevordmiller/shell-scripts](https://github.com/trevordmiller/shell-scripts) - Trevor's shell scripts
-* [starrhorne/Fish-Shell-Scripts](https://github.com/starrhorne/Fish-Shell-Scripts) - My personal fish shell scripts
+* [ShellShoccar-jpn/kotoriotoko](https://github.com/ShellShoccar-jpn/kotoriotoko) - KOTORIOTOKO (little bird man) -- Extremely Compatible and Sustainable Twitter Application Written in Shell Script
+* [mkropat/sh-realpath](https://github.com/mkropat/sh-realpath) - A portable, pure shell implementation of realpath
 * [milianw/shell-helpers](https://github.com/milianw/shell-helpers) - a bunch of little programs I wrote to make my life on the command line easier and less type-intensitive
 * [jmcerrejon/PiKISS](https://github.com/jmcerrejon/PiKISS) - PiKISS for Raspberry Pi & ODROID-C1: A bunch of scripts with menu to make your life easier.
 * [emirozer/nixarmor](https://github.com/emirozer/nixarmor) - nixarmor is a linux hardening automation project
+* [arcticicestudio/nord-termite](https://github.com/arcticicestudio/nord-termite) - An arctic, north-bluish clean and elegant Termite color theme.
 * [YunoHost/install_script](https://github.com/YunoHost/install_script) - YunoHost installation scripts
-* [mkropat/sh-realpath](https://github.com/mkropat/sh-realpath) - A portable, pure shell implementation of realpath
-* [csev/uninstall-python3](https://github.com/csev/uninstall-python3) - A Simple Shell Script to Uninstall Python 3 versions from Mac OS/X
-* [yonchu/shell-color-pallet](https://github.com/yonchu/shell-color-pallet) - Show color pallet for zsh/bash on 16 and 256 color terminal
 * [xtonousou/ship](https://github.com/xtonousou/ship) - A simple, handy network addressing multitool with plenty of features
+* [rachpt/AutoSeed](https://github.com/rachpt/AutoSeed) - Pt auto seed.
+* [brandonweiss/pure.fish](https://github.com/brandonweiss/pure.fish) - A Pure-inspired prompt for fish shell.
+* [yonchu/shell-color-pallet](https://github.com/yonchu/shell-color-pallet) - Show color pallet for zsh/bash on 16 and 256 color terminal
 * [vincetse/shellutils](https://github.com/vincetse/shellutils) - A collection of command line utilities
+* [shellhub/shellhub](https://github.com/shellhub/shellhub) - shell script hub
+* [LukeSmithxyz/lb](https://github.com/LukeSmithxyz/lb) - Blog & RSS system in less than 100 lines of shell script
 * [l0b0/tilde](https://github.com/l0b0/tilde) - Linux home directory configuration and utilities
 * [jorgebucaran/fish-sektor](https://github.com/jorgebucaran/fish-sektor) - Powerline fish-shell prompt inspired by MK Sektor
-* [excalibur1234/pacui](https://github.com/excalibur1234/pacui) - Bash script providing advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Pacaur functionality in a simple UI
-* [el1t/statusline](https://github.com/el1t/statusline) - Responsive powerline-esque zsh theme
-* [aurasphere/mongodb-university-classes](https://github.com/aurasphere/mongodb-university-classes) - Courseware and solutions of problems from MongoDB University's classes that I've attended.
+* [danishprakash/goodreadsh](https://github.com/danishprakash/goodreadsh) - Command line interface for Goodreads
 * [asciimoo/ali](https://github.com/asciimoo/ali) - Smart shell alias replacement
-* [ShellShoccar-jpn/kotoriotoko](https://github.com/ShellShoccar-jpn/kotoriotoko) - KOTORIOTOKO (little bird man) -- Extremely Compatible and Sustainable Twitter Application Written in Shell Script
 * [sevensins/Wallbase-Downloader](https://github.com/sevensins/Wallbase-Downloader) - Shell script to leech wallpapers from wallbase.cc
 * [runeasymail/easymail](https://github.com/runeasymail/easymail) - Easy way to install a mail server.
+* [neurobin/JLIVECD](https://github.com/neurobin/JLIVECD) - Live cd/dvd customization tool
 * [linickx/rsdns](https://github.com/linickx/rsdns) - rackspace DNS tools
+* [lasandell/RaspberryPi](https://github.com/lasandell/RaspberryPi) - Example shell scripts for interfacing electronics with the GPIO ports of the Raspberry Pi
 * [jm/shin](https://github.com/jm/shin) - A simple package manager for dotfiles and other shell scripts
+* [Jintin/aliasme](https://github.com/Jintin/aliasme) - A shell script to memorize your command in command line.
 * [javachen/hadoop-install](https://github.com/javachen/hadoop-install) - Shell scripts to install and deploy a Cloudera Hadoop cluster on CentOS 6
 * [filebot/plugins](https://github.com/filebot/plugins) - Plugins and shell scripts for integrating 3rd party tools with FileBot
-* [brandonweiss/pure.fish](https://github.com/brandonweiss/pure.fish) - A Pure-inspired prompt for fish shell.
+* [el1t/statusline](https://github.com/el1t/statusline) - Responsive powerline-esque zsh theme
+* [arcticicestudio/nord-tilix](https://github.com/arcticicestudio/nord-tilix) - An arctic, north-bluish clean and elegant Tilix color scheme.
 * [PeterDaveHello/ColorEchoForShell](https://github.com/PeterDaveHello/ColorEchoForShell) - Make 🐚 's 📢 to be 🌈 easily ✨ Support ✅ sh, bash, zsh, ksh & 🐟
-* [neurobin/JLIVECD](https://github.com/neurobin/JLIVECD) - Live cd/dvd customization tool
 * [mxdpeep/linux-bash-scripts](https://github.com/mxdpeep/linux-bash-scripts) - A batch of useful Linux shell scripts.
 * [mcsrainbow/shell-scripts](https://github.com/mcsrainbow/shell-scripts) - My Shell Scripts
-* [lasandell/RaspberryPi](https://github.com/lasandell/RaspberryPi) - Example shell scripts for interfacing electronics with the GPIO ports of the Raspberry Pi
-* [danishprakash/goodreadsh](https://github.com/danishprakash/goodreadsh) - Command line interface for Goodreads
+* [kindlefere/KindleEar-Uploader](https://github.com/kindlefere/KindleEar-Uploader) - 适用于 GAE 云端 Shell 的KindleEar上传脚本。
 * [aripollak/rbenv-bundler-ruby-version](https://github.com/aripollak/rbenv-bundler-ruby-version) - rbenv plugin to pick a ruby version from bundler's Gemfile
-* [arcticicestudio/nord-tilix](https://github.com/arcticicestudio/nord-tilix) - An arctic, north-bluish clean and elegant Tilix color scheme.
 * [samrayleung/dotfiles](https://github.com/samrayleung/dotfiles) - A shell script to install awesome command for *nix platform and set them up
 * [qbit/dotfiles](https://github.com/qbit/dotfiles) - Dotfile framework for make greater good of dotfiles (Shell)
 * [owent-utils/bash-shell](https://github.com/owent-utils/bash-shell) - OWenT's Utils -- Bash&Shell branch
 * [nwoolls/xgminer-osx](https://github.com/nwoolls/xgminer-osx) - Shell scripts for creating redistributable packages of CGMiner and BFGMiner for Mac OS X
 * [mempodippy/snodew](https://github.com/mempodippy/snodew) - PHP root (suid) reverse shell
-* [kindlefere/KindleEar-Uploader](https://github.com/kindlefere/KindleEar-Uploader) - 适用于 GAE 云端 Shell 的KindleEar上传脚本。
 * [dokku/plugn](https://github.com/dokku/plugn) - Hook system that lets users extend your application with plugins
 * [tylucaskelley/setup](https://github.com/tylucaskelley/setup) - Bootstrap your Mac for software development
 * [SixArm/sixarm_mac_setup](https://github.com/SixArm/sixarm_mac_setup) - SixArm.com » Mac » Setup notes for new Mac computer and macOS
 * [ryanpcmcquen/linuxTweaks](https://github.com/ryanpcmcquen/linuxTweaks) - :penguin: A whole host of Linux tricks I have picked up over the years, in plain text. Some of them are even useful.
 * [mzeis/MageSpawner](https://github.com/mzeis/MageSpawner) - Shell script for quickly creating Magento test installations.
+* [mengfeng/clean-my-mac](https://github.com/mengfeng/clean-my-mac) - Shell Scripts to clean my mac
 * [marcan/certbot-external](https://github.com/marcan/certbot-external) - Certbot plugin that uses an external shell script for domain validation
-* [lixuy/CloudXNS-DDNS-with-BashShell](https://github.com/lixuy/CloudXNS-DDNS-with-BashShell) - The CloudXNS DDNS with BashShell
 * [jschx/etc](https://github.com/jschx/etc) - Moved to GitLab!
-* [Jintin/aliasme](https://github.com/Jintin/aliasme) - A shell script to memorize your command in command line.
+* [fmahnke/shell-semver](https://github.com/fmahnke/shell-semver) - Increment semantic versioning strings in Bash shell scripts.
 * [1egoman/biome](https://github.com/1egoman/biome) - :christmas_tree: A script to manage an isolated shell environment for a project.
 * [solarkennedy/sensu-shell-helper](https://github.com/solarkennedy/sensu-shell-helper) - A shell script wrap your programs around to make them send their output to Sensu!
-* [mengfeng/clean-my-mac](https://github.com/mengfeng/clean-my-mac) - Shell Scripts to clean my mac
-* [LukeSmithxyz/lb](https://github.com/LukeSmithxyz/lb) - Blog & RSS system in less than 100 lines of shell script
-* [fmahnke/shell-semver](https://github.com/fmahnke/shell-semver) - Increment semantic versioning strings in Bash shell scripts.
+* [jimeh/zsh-peco-history](https://github.com/jimeh/zsh-peco-history) - Search shell history with peco when pressing ctrl+r.
 * [danfuzz/blur](https://github.com/danfuzz/blur) - Blur shell-based build system
+* [williamsmj/stowsh](https://github.com/williamsmj/stowsh) - A shell script to install and uninstall dotfiles using symlinks. stow written in bash, in other words.
+* [kewlbear/fdk-aac-build-script-for-iOS](https://github.com/kewlbear/fdk-aac-build-script-for-iOS) - Shell script to build fdk-aac for use in iOS apps.
 * [faif/shell-utils](https://github.com/faif/shell-utils) - Useful functions for POSIX shells (bash, ksh, tcsh, etc.).
 * [arunvelsriram/kube-fzf](https://github.com/arunvelsriram/kube-fzf) - Shell commands using kubectl and fzf for command-line fuzzy searching of Kubernetes Pods.
-* [vijithassar/lit](https://github.com/vijithassar/lit) - a little preprocessor for literate programming
 * [Utappia/uCareSystem](https://github.com/Utappia/uCareSystem) - An all-in-one, one click system maintenace application for Ubuntu/Debian operating systems and derivatives
 * [MysterionRise/mavenized-jcuda](https://github.com/MysterionRise/mavenized-jcuda) - Mavenized JCuda
 * [lestrrat/kubesh](https://github.com/lestrrat/kubesh) - Spawn a shell for a particular kubectl context (cluster).
-* [kewlbear/fdk-aac-build-script-for-iOS](https://github.com/kewlbear/fdk-aac-build-script-for-iOS) - Shell script to build fdk-aac for use in iOS apps.
+* [importpw/import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
 * [gerep/git-open](https://github.com/gerep/git-open) - Open your github project page from your terminal
+* [dotzero/iTerm-2-Peppermint](https://github.com/dotzero/iTerm-2-Peppermint) - iTerm 2 Peppermint color theme
 * [Charliedean/NetcatUP](https://github.com/Charliedean/NetcatUP) - Upgrade your netcat shell today!
+* [bianjp/archlinux-installer](https://github.com/bianjp/archlinux-installer) - Shell scripts that help install and setup Arch Linux
 * [ashqal/PNGCompressForMac](https://github.com/ashqal/PNGCompressForMac) - Simple shell script to compress png file. It will compress all png file include in given directory.
-* [mzpqnxow/gdb-static-cross](https://github.com/mzpqnxow/gdb-static-cross) - Shell scripts, sourceable "activate" scripts and instructions for building a statically linked gdb-7.12 gdbserver using cross-compile toolchains. Includes more than 20 statically linked gdbserver executables for different architectures, byte orders and ABIs
+* [vijithassar/lit](https://github.com/vijithassar/lit) - a little preprocessor for literate programming
+* [rosshamilton1/cissec](https://github.com/rosshamilton1/cissec) - Kickstart profiles for CentOS 7 to help meet CIS benchmarks + shell script to audit
 * [logoscreative/new-wp-mamp-shell](https://github.com/logoscreative/new-wp-mamp-shell) - Roll a new WordPress installation for MAMP with this quick shell script (allows custom inputs for directory, database name, and WP version)
 * [Josef-Friedrich/Hue-shell](https://github.com/Josef-Friedrich/Hue-shell) - A collection of UNIX shell scripts to control the Hue LED lamps from Philips.
+* [jgamblin/MacOS-Config](https://github.com/jgamblin/MacOS-Config) - Simple Shell Scripts I Use To Tweak MacOS To My Liking.
 * [excid3/dotfiles](https://github.com/excid3/dotfiles) - My personal dotfiles for macOS: zsh, MacVim, iterm, and more.
-* [dotzero/iTerm-2-Peppermint](https://github.com/dotzero/iTerm-2-Peppermint) - iTerm 2 Peppermint color theme
 * [damphat/kv-bash](https://github.com/damphat/kv-bash) - key/value database written in bash script (permanent variables in shell)
-* [bianjp/archlinux-installer](https://github.com/bianjp/archlinux-installer) - Shell scripts that help install and setup Arch Linux
-* [williamsmj/stowsh](https://github.com/williamsmj/stowsh) - A shell script to install and uninstall dotfiles using symlinks. stow written in bash, in other words.
 * [terrancesnyder/tomcat](https://github.com/terrancesnyder/tomcat) - Tomcat Best Practices Shell
 * [reale/bashlets](https://github.com/reale/bashlets) - An experiment in extending the command-line interface.
+* [mzpqnxow/gdb-static-cross](https://github.com/mzpqnxow/gdb-static-cross) - Shell scripts, sourceable "activate" scripts and instructions for building a statically linked gdb-7.12 gdbserver using cross-compile toolchains. Includes more than 20 statically linked gdbserver executables for different architectures, byte orders and ABIs
+* [mhausenblas/kn](https://github.com/mhausenblas/kn) - A collection of shell functions for Kubernetes native dabbling
 * [JREAM/config-ubuntu](https://github.com/JREAM/config-ubuntu) - Quickly Setup Ubuntu Desktop or Server with all-in-one Bash Scripts.
 * [halinuya/imagesetGenerator](https://github.com/halinuya/imagesetGenerator) - a shell script for generator ImageSet which input need big picture.
 * [controlz/Mongo-db-shell-backup](https://github.com/controlz/Mongo-db-shell-backup) - Shell Script for backing up all Mongo Databases on a server.  Flexible backup paths and filename.
+* [bAndie91/cloudflare-cli](https://github.com/bAndie91/cloudflare-cli) - CLI utility managing CloudFlare services using CloudFlare API
 * [0rax/fishline](https://github.com/0rax/fishline) - A powerline prompt framework for the fish-shell built in fish-shell.
 * [xilin/ios-build-script](https://github.com/xilin/ios-build-script) - Shell scripts to build ipa
-* [rosshamilton1/cissec](https://github.com/rosshamilton1/cissec) - Kickstart profiles for CentOS 7 to help meet CIS benchmarks + shell script to audit
+* [solodynamo/go-init](https://github.com/solodynamo/go-init) - The only Golang script you will ever need to get started .... 🏃
 * [mogensen/keychain](https://github.com/mogensen/keychain) - Bash script to access the osx keychain, for use in shell scripts.
-* [mhausenblas/kn](https://github.com/mhausenblas/kn) - A collection of shell functions for Kubernetes native dabbling
-* [jgamblin/MacOS-Config](https://github.com/jgamblin/MacOS-Config) - Simple Shell Scripts I Use To Tweak MacOS To My Liking.
 * [ideamonk/Rambola](https://github.com/ideamonk/Rambola) - Set of shell scripts to manage persistent ramdisks on os x
-* [bilyboy785/seedbox-compose](https://github.com/bilyboy785/seedbox-compose) - A complete script to deploy Seedbox with Docker fully automated !
-* [bAndie91/cloudflare-cli](https://github.com/bAndie91/cloudflare-cli) - CLI utility managing CloudFlare services using CloudFlare API
+* [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shell.
+* [BeginMan/myshell](https://github.com/BeginMan/myshell) - 写的常用Shell小工具，运维小脚本等
+* [arcticicestudio/nord-xfce-terminal](https://github.com/arcticicestudio/nord-xfce-terminal) - An arctic, north-bluish clean and elegant XFCE Terminal color theme.
 * [agross/dotfiles](https://github.com/agross/dotfiles) - My dotfiles.
 * [adafruit/Adafruit-Pi-ExternalRoot-Helper](https://github.com/adafruit/Adafruit-Pi-ExternalRoot-Helper) - A shell script to configure a USB drive as root filesystem.
-* [solodynamo/go-init](https://github.com/solodynamo/go-init) - The only Golang script you will ever need to get started .... 🏃
+* [thinkerbot/ts](https://github.com/thinkerbot/ts) - A shell test script
+* [ssh0/dot](https://github.com/ssh0/dot) - Simplest dotfiles manager written in shellscript :shell:
 * [SixArm/gpg-encrypt](https://github.com/SixArm/gpg-encrypt) - Use GPG to encrypt a file using our best settings
-* [ryanoasis/devicons-shell](https://github.com/ryanoasis/devicons-shell) - :symbols: adds font icons (glyphs ★♨☢) to filetypes via bash (faux ls with icons)
-* [rogalmic/vscode-bash-debug](https://github.com/rogalmic/vscode-bash-debug) - Bash shell debugger extension for VSCode (based on bashdb)
+* [luckylz2git/exfat-synology](https://github.com/luckylz2git/exfat-synology) - Perfect shell scripts to auto mount exfat disk partition on Synology DiskStation NAS (x86 platform), and more post-mount functions are coming soon! Use this at your own risks.
 * [joseluisq/awesome-bash-commands](https://github.com/joseluisq/awesome-bash-commands) - A curated list of awesome Bash useful commands. Inspired by awesome-shell and bash-handbook.
+* [cvmiller/v6brouter](https://github.com/cvmiller/v6brouter) - IPv6 bridge and IPv4 router (NAT) shell script for OpenWRT
 * [clhenrick/shell_scripts](https://github.com/clhenrick/shell_scripts) - Bash shell scripts for batch GeoProcessing using GDAL & OGR2OGR
 * [chadoe/luks-triple-unlock](https://github.com/chadoe/luks-triple-unlock) - Set of shell scripts to allow unlocking of full disk encrypted Ubuntu and Debian installs through console, USB-key or SSH.
+* [bilyboy785/seedbox-compose](https://github.com/bilyboy785/seedbox-compose) - A complete script to deploy Seedbox with Docker fully automated !
+* [arjun024/systemd-example-startup](https://github.com/arjun024/systemd-example-startup) - example file to tell systemd to start a shell script at boot
 * [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - ZPM - Zsh Plugin Manager
 * [wd5gnr/mhs5200a](https://github.com/wd5gnr/mhs5200a) - Shell script and awk program (and spreadsheet) to allow custom wave settings for MHS-5200A signal generator
 * [twe4ked/dotfiles](https://github.com/twe4ked/dotfiles) - 🏠 General configuration and Vim files managed with fresh
 * [tsaikd/docker-builder](https://github.com/tsaikd/docker-builder) - Build docker image system with shell scripts
-* [thinkerbot/ts](https://github.com/thinkerbot/ts) - A shell test script
-* [SixArm/sixarm_unix_shell_scripts](https://github.com/SixArm/sixarm_unix_shell_scripts) - SixArm.com » Unix » shell scripts for command line programs in sh, bash, etc.
-* [ruipfcosta/carthage-workarounds](https://github.com/ruipfcosta/carthage-workarounds) - Shell scripts to make life a little easier when using Carthage.
-* [mezga0153/offscreen-window-restore](https://github.com/mezga0153/offscreen-window-restore) - A simple shell script that moves off screen windows back
-* [luckylz2git/exfat-synology](https://github.com/luckylz2git/exfat-synology) - Perfect shell scripts to auto mount exfat disk partition on Synology DiskStation NAS (x86 platform), and more post-mount functions are coming soon! Use this at your own risks.
-* [jimeh/zsh-peco-history](https://github.com/jimeh/zsh-peco-history) - Search shell history with peco when pressing ctrl+r.
-* [cvmiller/v6brouter](https://github.com/cvmiller/v6brouter) - IPv6 bridge and IPv4 router (NAT) shell script for OpenWRT
-* [BeginMan/myshell](https://github.com/BeginMan/myshell) - 写的常用Shell小工具，运维小脚本等
-* [arjun024/systemd-example-startup](https://github.com/arjun024/systemd-example-startup) - example file to tell systemd to start a shell script at boot
-* [arcticicestudio/nord-xfce-terminal](https://github.com/arcticicestudio/nord-xfce-terminal) - An arctic, north-bluish clean and elegant XFCE Terminal color theme.
-* [vincentbernat/zshrc](https://github.com/vincentbernat/zshrc) - My .zshrc
-* [travisg/toolchains](https://github.com/travisg/toolchains) - Shell script to build gcc for various architectures
-* [ssh0/dot](https://github.com/ssh0/dot) - Simplest dotfiles manager written in shellscript :shell:
 * [sixdimensionalarray/esxidown](https://github.com/sixdimensionalarray/esxidown) - A shell script to shutdown VMware ESXi host servers
+* [SixArm/sixarm_unix_shell_scripts](https://github.com/SixArm/sixarm_unix_shell_scripts) - SixArm.com » Unix » shell scripts for command line programs in sh, bash, etc.
 * [shellscriptx/shellbot](https://github.com/shellscriptx/shellbot) - API em Shell Script para desenvolvimento de Bots na plataforma Telegram.
-* [shellhub/shellhub](https://github.com/shellhub/shellhub) - shell script hub
+* [ryanoasis/devicons-shell](https://github.com/ryanoasis/devicons-shell) - :symbols: adds font icons (glyphs ★♨☢) to filetypes via bash (faux ls with icons)
+* [ruipfcosta/carthage-workarounds](https://github.com/ruipfcosta/carthage-workarounds) - Shell scripts to make life a little easier when using Carthage.
+* [rogalmic/vscode-bash-debug](https://github.com/rogalmic/vscode-bash-debug) - Bash shell debugger extension for VSCode (based on bashdb)
 * [quafzi/magento-anonymizer](https://github.com/quafzi/magento-anonymizer) - shell script to anonymize Magento database
-* [lasyman/lasyman_setup_ss](https://github.com/lasyman/lasyman_setup_ss) - use the shell script to setup shadowsocks on Ubuntu
-* [Doriedson/mario-shellscript](https://github.com/Doriedson/mario-shellscript) - Game do Mario Bros em Shell Script
+* [mezga0153/offscreen-window-restore](https://github.com/mezga0153/offscreen-window-restore) - A simple shell script that moves off screen windows back
+* [joelagnel/adeb](https://github.com/joelagnel/adeb) - A debian-based shell environment designed for Android and adb
+* [jichu4n/fish-command-timer](https://github.com/jichu4n/fish-command-timer) - Fish shell extension for printing execution time for each command.
 * [digitoimistodude/dudestack](https://github.com/digitoimistodude/dudestack) - A toolkit for creating a new professional WordPress project with deployments. Heavily based on roots/bedrock.
-* [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in as nix-shell shell.
 * [andrewharvey/srtm-stylesheets](https://github.com/andrewharvey/srtm-stylesheets) - Shell scripts for working with NASA SRTM DEM data; gdaldem stylesheets for shaded relief maps; Mapnik stylesheets for contours; TileStache configuration for sandwich
 * [zhenruyan/codefont](https://github.com/zhenruyan/codefont) - 60余种常用的等宽字体    愉快的code吧  欢迎issues我  收录更多字体
-* [ronjouch/marathon](https://github.com/ronjouch/marathon) - minimal run-or-focus launcher for Linux/X
+* [zephinzer/golang-dev](https://github.com/zephinzer/golang-dev) - Live-reload, bootstrap, and build Golang applications via shell scripts packaged in a Docker image
+* [vincentbernat/zshrc](https://github.com/vincentbernat/zshrc) - My .zshrc
+* [lasyman/lasyman_setup_ss](https://github.com/lasyman/lasyman_setup_ss) - use the shell script to setup shadowsocks on Ubuntu
+* [gchaincl/dotenv.sh](https://github.com/gchaincl/dotenv.sh) -  Loads environment variables from `.env` in your shell
+* [duy13/VDVESTA](https://github.com/duy13/VDVESTA) - Welcome to VDVESTA, a shell script auto Custom & Install VESTACP for your CentOS Server Release 7 x86_64. Thanks you for using!
+* [Doriedson/mario-shellscript](https://github.com/Doriedson/mario-shellscript) - Game do Mario Bros em Shell Script
+* [bdossantos/nagios-plugins](https://github.com/bdossantos/nagios-plugins) - 🌡️ Various Sensu, Nagios, you name it, monitoring plugins.
+* [travisg/toolchains](https://github.com/travisg/toolchains) - Shell script to build gcc for various architectures
+* [superkojiman/rfishell](https://github.com/superkojiman/rfishell) - Provide a shell-like interface for exploiting Remote File Inclusion vulnerabilities.
 * [progrium/systembits](https://github.com/progrium/systembits) - Simplest profiler ever. Like ohai but just shell scripts.
 * [pixelhandler/vagrant-dev-env](https://github.com/pixelhandler/vagrant-dev-env) - vagrant development environment provisioned with shell scripts on precise64 box
 * [kud/my](https://github.com/kud/my) - dev environnement.
-* [joelagnel/adeb](https://github.com/joelagnel/adeb) - A debian-based shell environment designed for Android and adb
-* [importpw/import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
-* [duy13/VDVESTA](https://github.com/duy13/VDVESTA) - Welcome to VDVESTA, a shell script auto Custom & Install VESTACP for your CentOS Server Release 7 x86_64. Thanks you for using!
+* [joarleymoraes/aws_lambda_deploy](https://github.com/joarleymoraes/aws_lambda_deploy) - Automated AWS Lambda Deployment (Python)
 * [dparoli/hrsync](https://github.com/dparoli/hrsync) - rsync backup with a bit of magic, decting moved and renamed files
 * [crazyadmins/useful-scripts](https://github.com/crazyadmins/useful-scripts) - Useful shell scripts for Hadoop/Linux system administrator
 * [caarlos0/shell-ci-build](https://github.com/caarlos0/shell-ci-build) - A submodule to lint your shell projects with shellcheck in travis.ci builds
 * [brgmnn/fish-docker-compose](https://github.com/brgmnn/fish-docker-compose) - Fish shell completions for docker-compose
-* [bdossantos/nagios-plugins](https://github.com/bdossantos/nagios-plugins) - 🌡️ Various Sensu, Nagios, you name it, monitoring plugins.
 * [apfeltee/a2mp3](https://github.com/apfeltee/a2mp3) - convert (nearly) every type of (audio)file to mp3 in a quick, easy, batch-enabled way!
 * [Anachron/wp-themes](https://github.com/Anachron/wp-themes) - A repository of shell-scripts which help to create a full desktop theme based on a single image.
 * [xr09/cron-last-sunday](https://github.com/xr09/cron-last-sunday) - Run a cron task the first, nth or last weekday of the month
-* [superkojiman/rfishell](https://github.com/superkojiman/rfishell) - Provide a shell-like interface for exploiting Remote File Inclusion vulnerabilities.
+* [whats-this/owo.sh](https://github.com/whats-this/owo.sh) - Read-only mirror of https://owo.codes/whats-this/owo.sh
+* [ronjouch/marathon](https://github.com/ronjouch/marathon) - minimal run-or-focus launcher for Linux/X
 * [ptrofimov/github-backup-sh](https://github.com/ptrofimov/github-backup-sh) - Simple shell script to backup all GitHub repos for specified user
 * [nicandris/CM-from-scratch](https://github.com/nicandris/CM-from-scratch) - [DEV] Building CM from scratch (the easy way)! - *nix Shell Script
 * [mjsolidarios/unity-flatify-icons](https://github.com/mjsolidarios/unity-flatify-icons) - Shell script to flatten Ubuntu Unity's launcher icons.
 * [gianu/latest_tweets](https://github.com/gianu/latest_tweets) - Fetch the latest tweets from your shell
 * [emasaka/sh.inatra](https://github.com/emasaka/sh.inatra) - CGI shell script framework looks like sinatra.
 * [cowgill/spamhaus](https://github.com/cowgill/spamhaus) - A shell script that grabs the latest Spamhaus DROP List and adds it to iptables.
-* [whats-this/owo.sh](https://github.com/whats-this/owo.sh) - Read-only mirror of https://owo.codes/whats-this/owo.sh
-* [waja/maldetect](https://github.com/waja/maldetect) - Debian packaging of Linux Malware Detect (https://github.com/rfxn/linux-malware-detect)
-* [vincepii/ubuntu-powerline-bash](https://github.com/vincepii/ubuntu-powerline-bash) - A script to quickly setup powerline shell for bash in ubuntu
-* [ricardobeat/git-commands](https://github.com/ricardobeat/git-commands) - Custom power-user git commands.
-* [rachpt/AutoSeed](https://github.com/rachpt/AutoSeed) - Pt auto seed.
-* [joarleymoraes/aws_lambda_deploy](https://github.com/joarleymoraes/aws_lambda_deploy) - Automated AWS Lambda Deployment (Python)
-* [jamiewilson/predawn-shell](https://github.com/jamiewilson/predawn-shell) - Predawn themes for iTerm, Terminal, and a ZSH prompt
-* [greymd/egzact](https://github.com/greymd/egzact) - Strengthen weak points of the shell
 * [12moons/ec2-tags-env](https://github.com/12moons/ec2-tags-env) - :cloud: Import AWS EC2 tags as environment variables
+* [WuOtto/MacImagesetGenerator](https://github.com/WuOtto/MacImagesetGenerator) - 2个脚本文件，帮助你在Mac上，生成Xcode可使用的APP图标和启动图。
+* [waja/maldetect](https://github.com/waja/maldetect) - Debian packaging of Linux Malware Detect (https://github.com/rfxn/linux-malware-detect)
+* [SkypLabs/bsfl](https://github.com/SkypLabs/bsfl) - Bash Shell Function Library
+* [rugk/borg-cron-helper](https://github.com/rugk/borg-cron-helper) - Helper shell scripts for BorgBackup to automate backups and make your life easier… 😉
+* [ricardobeat/git-commands](https://github.com/ricardobeat/git-commands) - Custom power-user git commands.
+* [qindeli/WorksapceShell](https://github.com/qindeli/WorksapceShell) - 项目基于Workspace的打包签名脚本
+* [nicoulaj/broom](https://github.com/nicoulaj/broom) - A disk cleaning utility for developers.
+* [jamiewilson/predawn-shell](https://github.com/jamiewilson/predawn-shell) - Predawn themes for iTerm, Terminal, and a ZSH prompt
+* [jalendport/switch-php](https://github.com/jalendport/switch-php) - Easily switch between PHP versions on your Mac. Requires Homebrew and works with Laravel Valet. 🔀
+* [greymd/egzact](https://github.com/greymd/egzact) - Strengthen weak points of the shell
+* [amail/deploy.sh](https://github.com/amail/deploy.sh) - Deploy.sh is a universal deployment script that makes it easy for you to deploy your code, files, configurations etc. to multiple servers via ssh. Perfect for the cloud. Written as a shell script (standard bourne shell) and runs on every unix server. No need for remote install. Just run the deploy.sh script on the local machine.
+* [zeit/install-node](https://github.com/zeit/install-node) - Simple one-liner shell script that installs official Node.js binaries
+* [vincepii/ubuntu-powerline-bash](https://github.com/vincepii/ubuntu-powerline-bash) - A script to quickly setup powerline shell for bash in ubuntu
 * [tj/cipherhub.sh](https://github.com/tj/cipherhub.sh) - substack's cipherhub as a shell script
 * [Tarrasch/zsh-colors](https://github.com/Tarrasch/zsh-colors) - Imagine a shell where `red ERROR` just works
+* [skissane/mkjail](https://github.com/skissane/mkjail) - Shell script to create a chroot jail on Mac OS X
+* [rafi/.config](https://github.com/rafi/.config) - Rafi's workstations (Archlinux, osx) ~/.config.
+* [PacktPublishing/Linux-Shell-Scripting-Cookbook-Third-Edition](https://github.com/PacktPublishing/Linux-Shell-Scripting-Cookbook-Third-Edition) - Linux Shell Scripting Cookbook Third Edition, published by Packt
 * [moeenz/vscode-updater](https://github.com/moeenz/vscode-updater) - A simple script to automate downloading, installing and restarting Visual Studio Code.
 * [mauserrifle/vagrant-debian-shell](https://github.com/mauserrifle/vagrant-debian-shell) - Vagrant shell configuration files for debian squeeze
-* [jichu4n/fish-command-timer](https://github.com/jichu4n/fish-command-timer) - Fish shell extension for printing execution time for each command.
+* [martinburger/bash-common-helpers](https://github.com/martinburger/bash-common-helpers) - Helper functions commonly used when writing shell (for instance, Bash) scripts.
+* [FSMaxB/lfs-me](https://github.com/FSMaxB/lfs-me) - Linux From Scratch made ( more ) easy. A simple, fakeroot based, package manager for LFS heavily inspired by Archlinux' package management.
 * [florianbeer/hactar](https://github.com/florianbeer/hactar) - :page_with_curl: An incremential daily backup script using rsync
 * [E-F-A/v3](https://github.com/E-F-A/v3) - E.F.A version 3.x.x.x
 * [defagos/sign-ipa](https://github.com/defagos/sign-ipa) - sign-ipa is a shell script with which you can sign an existing ipa using another provisioning profile, without having to build the application again. The Info.plist can be edited at the same time if needed.
 * [clvv/undo](https://github.com/clvv/undo) - Undo shell commands.
-* [amail/deploy.sh](https://github.com/amail/deploy.sh) - Deploy.sh is a universal deployment script that makes it easy for you to deploy your code, files, configurations etc. to multiple servers via ssh. Perfect for the cloud. Written as a shell script (standard bourne shell) and runs on every unix server. No need for remote install. Just run the deploy.sh script on the local machine.
-* [zeit/install-node](https://github.com/zeit/install-node) - Simple one-liner shell script that installs official Node.js binaries
+* [alphabetum/notes](https://github.com/alphabetum/notes) - A git-backed, syncable, searchable command line note-taking tool in a single portable script.
+* [wklken/bash-utils](https://github.com/wklken/bash-utils) - utils for shell
 * [webdna/serverpilot-scripts](https://github.com/webdna/serverpilot-scripts) - A collection of scripts for setting up various items / running tasks on serverpilot provisioned servers
+* [ss18/grep-typos](https://github.com/ss18/grep-typos) - Quickly check your project for typos
 * [sodiumjoe/dotfiles](https://github.com/sodiumjoe/dotfiles) - dotfiles
-* [SkypLabs/bsfl](https://github.com/SkypLabs/bsfl) - Bash Shell Function Library
 * [scrathe/tardisIVR](https://github.com/scrathe/tardisIVR) - Project deprecated, see https://github.com/scrathe/plexEncode
-* [rugk/borg-cron-helper](https://github.com/rugk/borg-cron-helper) - Helper shell scripts for BorgBackup to automate backups and make your life easier… 😉
-* [rafi/.config](https://github.com/rafi/.config) - Rafi's workstations (Archlinux, osx) ~/.config.
-* [nicoulaj/broom](https://github.com/nicoulaj/broom) - A disk cleaning utility for developers.
-* [martinburger/bash-common-helpers](https://github.com/martinburger/bash-common-helpers) - Helper functions commonly used when writing shell (for instance, Bash) scripts.
-* [gchaincl/dotenv.sh](https://github.com/gchaincl/dotenv.sh) -  Loads environment variables from `.env` in your shell
+* [samoshkin/tmux-plugin-sysstat](https://github.com/samoshkin/tmux-plugin-sysstat) - Prints CPU usage, memory & swap, load average, net I/O metrics in Tmux status bar
+* [samoshkin/docker-letsencrypt-certgen](https://github.com/samoshkin/docker-letsencrypt-certgen) - Docker image to generate, renew, revoke RSA and/or ECDSA SSL certificates from LetsEncrypt CA using certbot and acme.sh clients in automated fashion
 * [eyedol/tools](https://github.com/eyedol/tools) - Little codes here and there to automate some of my boring daily routines and configurations
+* [eduosi/shell](https://github.com/eduosi/shell) - linux 常用脚本
 * [a-sync/slackr](https://github.com/a-sync/slackr) - Simple shell command to send or pipe content to slack via webhooks. (To upload snippets or files use: www.github.com/a-sync/slackfu)
 * [arcticicestudio/nord-terminator](https://github.com/arcticicestudio/nord-terminator) - An arctic, north-bluish clean and elegant Terminator color theme.
-* [alphabetum/notes](https://github.com/alphabetum/notes) - A git-backed, syncable, searchable command line note-taking tool in a single portable script.
 * [tomsquest/dotfiles](https://github.com/tomsquest/dotfiles) - Config files for zsh, vim and many more. Heavily commented
 * [thasmo/portableapps.cygwin](https://github.com/thasmo/portableapps.cygwin) - Portable version of Cygwin, a collection of tools which provide a Linux look and feel environment for Windows.
 * [smileart/omg](https://github.com/smileart/omg) - One More Gear set to follow DRY principle and stop doing things again and again (just a nice name for my dotfiles)
-* [skissane/mkjail](https://github.com/skissane/mkjail) - Shell script to create a chroot jail on Mac OS X
 * [sgruhier/rake_cap_bash_autocomplete](https://github.com/sgruhier/rake_cap_bash_autocomplete) - Autocompletion for rake and cap for bash shell
-* [samoshkin/docker-letsencrypt-certgen](https://github.com/samoshkin/docker-letsencrypt-certgen) - Docker image to generate, renew, revoke RSA and/or ECDSA SSL certificates from LetsEncrypt CA using certbot and acme.sh clients in automated fashion
-* [qindeli/WorksapceShell](https://github.com/qindeli/WorksapceShell) - 项目基于Workspace的打包签名脚本
+* [paul-nelson-baker/git-openssl-shellscript](https://github.com/paul-nelson-baker/git-openssl-shellscript) - Shellscript to compile git with OpenSSL
+* [nixcraft/domain-check-2](https://github.com/nixcraft/domain-check-2) - Domain Expiration Check Shell Script Forked and Maintained by nixCraft
 * [MacsInSpace/MacAppStoreRedist](https://github.com/MacsInSpace/MacAppStoreRedist) - Launchd and Script to watch the App Store Manifest and hard link downloads from the Mac App Store for redist.
 * [kward/log4sh](https://github.com/kward/log4sh) - log4sh is an advanced logging framework for Unix shell scripts.
 * [jamesqo/sinister](https://github.com/jamesqo/sinister) - A cross-platform shell script installer.
+* [jackharrisonsherlock/common](https://github.com/jackharrisonsherlock/common) - A simple, clean and minimal prompt.
 * [ithinkihaveacat/dotfiles](https://github.com/ithinkihaveacat/dotfiles) - Shell-related config files and scripts
-* [FSMaxB/lfs-me](https://github.com/FSMaxB/lfs-me) - Linux From Scratch made ( more ) easy. A simple, fakeroot based, package manager for LFS heavily inspired by Archlinux' package management.
-* [eduosi/shell](https://github.com/eduosi/shell) - linux 常用脚本
+* [grml/grml-debootstrap](https://github.com/grml/grml-debootstrap) - wrapper around debootstrap
 * [educabilia/bs](https://github.com/educabilia/bs) - An environment manager for your shell.
+* [dxd132630/Shell](https://github.com/dxd132630/Shell) - Shell scripts/programs for use in Liunx Systems. (CentOS/Redhat variants)
+* [BaReinhard/iOS-Audio-to-ChromeCast](https://github.com/BaReinhard/iOS-Audio-to-ChromeCast) - Audio Streaming from iOS devices to Google Chromecast/Home Audio Devices.
 * [zjhou/E2P](https://github.com/zjhou/E2P) - Email 2 Post: 监测并解析博客管理员邮件，自动部署博文，更新博客。（针对hexo博客系统）
 * [zeekay/zeesh](https://github.com/zeekay/zeesh) - 🐚 Putting the zee in your shell. A plugin-based framework for Zsh.
-* [WuOtto/MacImagesetGenerator](https://github.com/WuOtto/MacImagesetGenerator) - 2个脚本文件，帮助你在Mac上，生成Xcode可使用的APP图标和启动图。
 * [windworst/openshit](https://github.com/windworst/openshit) - OpenStack Configure Shell Scipt
 * [uriagassi/sash](https://github.com/uriagassi/sash) - Secure AWS Shell
 * [sds/dot](https://github.com/sds/dot) - Framework for managing multiple shell configurations and dot files.
 * [pierlauro/playlist2links](https://github.com/pierlauro/playlist2links) - This bash script allows to extract video links from a youtube playlist
-* [paul-nelson-baker/git-openssl-shellscript](https://github.com/paul-nelson-baker/git-openssl-shellscript) - Shellscript to compile git with OpenSSL
-* [nixcraft/domain-check-2](https://github.com/nixcraft/domain-check-2) - Domain Expiration Check Shell Script Forked and Maintained by nixCraft
 * [krispayne/CIS-Settings](https://github.com/krispayne/CIS-Settings) - CIS settings bootstrapper for Mac
 * [hassio-addons/addon-ide](https://github.com/hassio-addons/addon-ide) - IDE - Secure Shell - Community Hass.io Add-on for Home Assistant
-* [grml/grml-debootstrap](https://github.com/grml/grml-debootstrap) - wrapper around debootstrap
-* [wklken/bash-utils](https://github.com/wklken/bash-utils) - utils for shell
+* [connorworley/dotfiles](https://github.com/connorworley/dotfiles) - Dotfiles and shell scripts
+* [wentmac/mysql_backup](https://github.com/wentmac/mysql_backup) - mysql数据库定时增量和全量备份的shell
 * [waldyr/sublime-installer](https://github.com/waldyr/sublime-installer) - A Sublime Text Editor Installer made in shell script for the 2.0.1 version
 * [Tscherno/Fritzbox.sh](https://github.com/Tscherno/Fritzbox.sh) - Shell script to control AVM FritzBox(tm) router, getting information, smarthome etc... Use it from Homematic, CCU, whatever!
-* [samoshkin/tmux-plugin-sysstat](https://github.com/samoshkin/tmux-plugin-sysstat) - Prints CPU usage, memory & swap, load average, net I/O metrics in Tmux status bar
 * [neurobin/oraji](https://github.com/neurobin/oraji) - Oracle java installler script for linux
 * [mattstauffer/makeItCraft](https://github.com/mattstauffer/makeItCraft) - Shell script to build out Craft install quickly
+* [mahmalsami/migrate-github-gitlab](https://github.com/mahmalsami/migrate-github-gitlab) - Shell script to migrate ALL your repo from Github to Gitlab in one shot
 * [lmartinking/monkey-tail](https://github.com/lmartinking/monkey-tail) - A swiss army knife of commands and shell hacks, using @ as the prefix
 * [lavoiesl/bash-templater](https://github.com/lavoiesl/bash-templater) - Very simple templating system that replace {{VAR}} by $VAR environment value, supports defines
-* [jalendport/switch-php](https://github.com/jalendport/switch-php) - Easily switch between PHP versions on your Mac. Requires Homebrew and works with Laravel Valet. 🔀
-* [dxd132630/Shell](https://github.com/dxd132630/Shell) - Shell scripts/programs for use in Liunx Systems. (CentOS/Redhat variants)
-* [connorworley/dotfiles](https://github.com/connorworley/dotfiles) - Dotfiles and shell scripts
 * [claranet/centos7-ami](https://github.com/claranet/centos7-ami) - Shell script to build CentOS 7 AMI
 * [cdax/setop](https://github.com/cdax/setop) - Set operations in the UNIX shell!
+* [bosim/FedoraPrime](https://github.com/bosim/FedoraPrime) - This package provide similar functionality to nvidia-prime for Ubuntu, just for fedora, provide a shell script that will change to NVIDIA GPU and vice versa for Intel GPU
 * [bmc08gt/scripts](https://github.com/bmc08gt/scripts) - Scripts used to improve productivity and workflow
 * [blufro93/inline-onion-pi](https://github.com/blufro93/inline-onion-pi) - Shell script to create an onion-router for your Raspberry Pi from a stock Moebius image
 * [antonioribeiro/artisan-anywhere](https://github.com/antonioribeiro/artisan-anywhere) - Execute Artisan from anywhere in your Laravel project tree
 * [ahackett/Oracle-DBA-Scripts](https://github.com/ahackett/Oracle-DBA-Scripts) - This is a collection of useful Oracle SQL and shell scripts that I frequently use
-* [wentmac/mysql_backup](https://github.com/wentmac/mysql_backup) - mysql数据库定时增量和全量备份的shell
 * [theonemule/no-ip](https://github.com/theonemule/no-ip) - A shell script that works as Dynamic Update Client (DUC) for noip.com
+* [thelinuxchoice/spykey](https://github.com/thelinuxchoice/spykey) - FUD Win32 Keylogger and Reverse Shell (cmd.exe)
+* [tests-always-included/tomdoc.sh](https://github.com/tests-always-included/tomdoc.sh) - Parse TomDoc'd shell scripts and generate pretty documentation from it
 * [sspreitzer/docker-shellinabox](https://github.com/sspreitzer/docker-shellinabox) - shellinabox for docker
-* [ss18/grep-typos](https://github.com/ss18/grep-typos) - Quickly check your project for typos
 * [sammcj/kernel-ci](https://github.com/sammcj/kernel-ci) - Continuous integration for the Linux Kernel - Built within Docker
-* [PacktPublishing/Linux-Shell-Scripting-Cookbook-Third-Edition](https://github.com/PacktPublishing/Linux-Shell-Scripting-Cookbook-Third-Edition) - Linux Shell Scripting Cookbook Third Edition, published by Packt
+* [rutchkiwi/copyzshell](https://github.com/rutchkiwi/copyzshell) - A plugin for oh-my-zsh to copy your shell configuration to another machine over ssh.
 * [PacBSD/abs](https://github.com/PacBSD/abs) - Collection of PKGBUILDS for PacBSD
 * [ousamabenyounes/ShellVhostManager](https://github.com/ousamabenyounes/ShellVhostManager) - Helps you managing LAMP basic needs (virtualHost, Ftp users, Mysql Database)
 * [oryband/dotfiles](https://github.com/oryband/dotfiles) - My working machine setup. Fork at will.
 * [opencultureconsulting/openrefine-batch](https://github.com/opencultureconsulting/openrefine-batch) - Shell script to run OpenRefine in batch mode (import, transform, export). It orchestrates OpenRefine (server) and a python client that communicates with the OpenRefine API.
-* [mahmalsami/migrate-github-gitlab](https://github.com/mahmalsami/migrate-github-gitlab) - Shell script to migrate ALL your repo from Github to Gitlab in one shot
-* [jackharrisonsherlock/common](https://github.com/jackharrisonsherlock/common) - A simple, clean and minimal prompt.
+* [johnkeeping/git-integration](https://github.com/johnkeeping/git-integration) - Easily manage integration branches in Git
+* [jamf/icns-Creator](https://github.com/jamf/icns-Creator) - A shell script to create full .icns files
 * [imwally/scripts](https://github.com/imwally/scripts) - Various shell scripts to make my life easier.
 * [iaindooley/pickdrop](https://github.com/iaindooley/pickdrop) - A unix shell script which allows you to "pick" files one at a time and then drop them in one place
+* [hashbang/shell-server](https://github.com/hashbang/shell-server) - #! shell server base images, ready to boot and allow user logins.
 * [h12w/gosweep](https://github.com/h12w/gosweep) - A shell script to do various checks on Go code.
 * [geidsvig/AnsiblePlaybooks](https://github.com/geidsvig/AnsiblePlaybooks) - Example project containing Ansible inventories, playbooks, plays, templates, and shell scripts.
+* [elithrar/dotfiles](https://github.com/elithrar/dotfiles) - dotfiles for my Linux (and/or) WSL dev. environments
 * [davesque/s](https://github.com/davesque/s) - a simple shell script manager
 * [darrentu/convert-db-to-csv](https://github.com/darrentu/convert-db-to-csv) - convert-db-to-csv.sh is a shell script that uses SQLite3 to convert a .db file into .csv files. It converts each of the tables in the database into csv files.
 * [cuber/gfwlist2pac-shell](https://github.com/cuber/gfwlist2pac-shell) - Translate the gfwlist in base64 to efficient pac file
-* [bosim/FedoraPrime](https://github.com/bosim/FedoraPrime) - This package provide similar functionality to nvidia-prime for Ubuntu, just for fedora, provide a shell script that will change to NVIDIA GPU and vice versa for Intel GPU
-* [BaReinhard/iOS-Audio-to-ChromeCast](https://github.com/BaReinhard/iOS-Audio-to-ChromeCast) - Audio Streaming from iOS devices to Google Chromecast/Home Audio Devices.
+* [artofrawr/powerline-fonts](https://github.com/artofrawr/powerline-fonts) - Nerd fonts that I use for my shell & editor.
 * [alswl/.oOo.](https://github.com/alswl/.oOo.) - dot files configuration (macOS & Linux), surfingkeys / tmux / screen / ideavimrc / phoenix
 * [xr09/rainbow.sh](https://github.com/xr09/rainbow.sh) - Simple colors for your bash scripts
-* [tests-always-included/tomdoc.sh](https://github.com/tests-always-included/tomdoc.sh) - Parse TomDoc'd shell scripts and generate pretty documentation from it
-* [spencerwooo/dotfiles](https://github.com/spencerwooo/dotfiles) - My dotfiles, including PowerShell scripts and `.zshrc`.
 * [sharat87/pip-app](https://github.com/sharat87/pip-app) - A set of shell functions to make it easy to install small apps and utilities distributed with pip.
 * [kernelp4nic/moonbox](https://github.com/kernelp4nic/moonbox) - Moonbox - Where your moon rocks live
-* [johnkeeping/git-integration](https://github.com/johnkeeping/git-integration) - Easily manage integration branches in Git
-* [jamfit/icns-Creator](https://github.com/jamfit/icns-Creator) - A shell script to create full .icns files
 * [HoundstoothSTL/wordpress-starter](https://github.com/HoundstoothSTL/wordpress-starter) - A shell script for setting up wordpress core, dev theme, deployment scripts, local vhost and amazon S3 backups
-* [hashbang/shell-server](https://github.com/hashbang/shell-server) - #! shell server base images, ready to boot and allow user logins.
 * [g763007297/GQResign](https://github.com/g763007297/GQResign) - ipa重签名(resign),只需一个证书的p12和一个mobileprovision文件就可以实现ipa的重签名
 * [ferd/erl_crashdump_analyzer](https://github.com/ferd/erl_crashdump_analyzer) - shell script to analyze Erlang crash dumps and find some (generally) useful information.
 * [dwb/dogfish](https://github.com/dwb/dogfish) - A really simple migration manager for MySQL and PostgreSQL.
-* [artofrawr/powerline-fonts](https://github.com/artofrawr/powerline-fonts) - Nerd fonts that I use for my shell & editor.
 * [Allar/linux-perforce-installer](https://github.com/Allar/linux-perforce-installer) - A shell script that will automate setting up a perforce server on a linux host.
-* [thelinuxchoice/spykey](https://github.com/thelinuxchoice/spykey) - FUD Win32 Keylogger and Reverse Shell (cmd.exe)
+* [4679/serverchan-scripts](https://github.com/4679/serverchan-scripts) - 用于Server醬的一些shell脚本
+* [Tsuk1ko/nhentai-one-key-downloader](https://github.com/Tsuk1ko/nhentai-one-key-downloader) - 一个可以一键下载nhentai本子的纯shell脚本。A pure shell script that can easily download comics from nhentai.
 * [snaptortoise/wordpress-quick-install](https://github.com/snaptortoise/wordpress-quick-install) - A shell script for quickly installing the latest version of WordPress + useful plugins into the current directory. A nice way to start any new WP project.
 * [shinriyo/breeze](https://github.com/shinriyo/breeze) - git tool for fish-shell
-* [rutchkiwi/copyzshell](https://github.com/rutchkiwi/copyzshell) - A plugin for oh-my-zsh to copy your shell configuration to another machine over ssh.
+* [ruyadorno/installme-osx](https://github.com/ruyadorno/installme-osx) - My personal script to setup a new OSX
 * [rust-lang/rust-installer](https://github.com/rust-lang/rust-installer) - The Bourne shell installer used by Rust and Cargo
+* [qindeli/NoWorkspaceShell](https://github.com/qindeli/NoWorkspaceShell) - 无WorkSpace的脚本
 * [plushu/plushu](https://github.com/plushu/plushu) - Pluggable Shell User
 * [petems/puppet-install-shell](https://github.com/petems/puppet-install-shell) - A shell script to install puppet on multiple distros
 * [nodesocket/cryptr](https://github.com/nodesocket/cryptr) - A simple shell utility for encrypting and decrypting files.
 * [mmone/marlintool](https://github.com/mmone/marlintool) - A shell script for setting up a standalone Marlin build environment on Raspberry Pi and Linux in general.
+* [hibara/create-ios-all-icons-shellscript](https://github.com/hibara/create-ios-all-icons-shellscript) - Use Shell Script commands in only MacOSX for generating all icons that need to build iOS app.
 * [franks42/lein-repls](https://github.com/franks42/lein-repls) - A persistent repl-server as a leiningen task/plugin "lein repls" and a lightweight shell-script client "cljsh".
 * [corpsee/phpell](https://github.com/corpsee/phpell) - [ABANDONED] Vagrant VM with bash(shell) provision for PHP development
 * [chr4/shellrc](https://github.com/chr4/shellrc) - Shell dotfiles, conf.d stype, for multiple shells (bash, zsh)
 * [AndreBL/ip6neigh](https://github.com/AndreBL/ip6neigh) - Giving local DNS names to IPv6 SLAAC addresses [OpenWrt/LEDE shell script]
 * [alexoslabs/HTTPSScan](https://github.com/alexoslabs/HTTPSScan) - Shell script for testing the SSL/TLS Protocols
-* [4679/serverchan-scripts](https://github.com/4679/serverchan-scripts) - 用于Server醬的一些shell脚本
 * [vlevit/transmission-batch-move](https://github.com/vlevit/transmission-batch-move) - Simple shell script to rename all Transmission destination paths at once (by editing resume files)
 * [TrevorS/keyway](https://github.com/TrevorS/keyway) - A simple Bash lock file library.
+* [thelinuxchoice/keydroid](https://github.com/thelinuxchoice/keydroid) - Android Keylogger + Reverse Shell
 * [strycore/scripts](https://github.com/strycore/scripts) - My collection of useful shell scripts
-* [ruyadorno/installme-osx](https://github.com/ruyadorno/installme-osx) - My personal script to setup a new OSX
+* [springlie/cecho](https://github.com/springlie/cecho) - Self-adapting color echo wrapper for shell.
 * [progrhyme/shove](https://github.com/progrhyme/shove) - Prove-like Test Tool for Shell Scripts
+* [mattiabasone/tuning-primer](https://github.com/mattiabasone/tuning-primer) - MySQL performance tuning primer script (with MariaDB patch)
 * [manolo/shell2junit](https://github.com/manolo/shell2junit) -  utility which facilitates to generate junit reports for batch processes executed in shell scripts
 * [jgigault/42MapGenerator](https://github.com/jgigault/42MapGenerator) - Generate FdF maps of the real world, the Earth's moon and the planet Venus for the project Fil de Fer
 * [IsaacSchemm/netbootcd](https://github.com/IsaacSchemm/netbootcd) - The build files for NetbootCD (except the CorePlus ISO)
-* [hibara/create-ios-all-icons-shellscript](https://github.com/hibara/create-ios-all-icons-shellscript) - Use Shell Script commands in only MacOSX for generating all icons that need to build iOS app.
+* [hhstore/awesome-script](https://github.com/hhstore/awesome-script) - 常用的 shell 脚本,包括 centos, Ubuntu, Mac osx, 以及 Docker, Python 等常用软件的安装, 配置, 开发环境搭建的脚本.
 * [haikieu/shell-progressbar](https://github.com/haikieu/shell-progressbar) - Make a progress bar GUI on terminal platform (Shell script)
 * [grantlucas/Logger-TXT](https://github.com/grantlucas/Logger-TXT) - Logger TXT is a small, shell based tool to log activities throughout the day to a simple, portable text file, along with the date/time. Options are available to log a specific entry under a type and project. All entries are stored in log.txt which is automatically created in the folder where logger.sh resides.
-* [elithrar/dotfiles](https://github.com/elithrar/dotfiles) - dotfiles for my Linux (and/or) WSL dev. environments
+* [fishgretel/fasd](https://github.com/fishgretel/fasd) - Plugin for fish-shell to integrate fasd
+* [decors/fish-ghq](https://github.com/decors/fish-ghq) - ghq completion and keybinding for fish shell
 * [close2/shell-xmpp-client](https://github.com/close2/shell-xmpp-client) - Xmpp client written in bash / ash (openwrt).  It's only dependency is ncat (or similar) for the actual ssl connection.
 * [bt3gl/Shell-Scripts_and_Dotfiles](https://github.com/bt3gl/Shell-Scripts_and_Dotfiles) - 🐯Some dot files and shell scripts. 🐯
 * [appleboy/Shell-Script](https://github.com/appleboy/Shell-Script) - Shell Script  on FreeBSD or Ubuntu
 * [AlekseyKorzun/php-audit](https://github.com/AlekseyKorzun/php-audit) - phpAudit is a simple shell script that scans PHP files for possible security risks.
 * [wuseman/WGLFTPD](https://github.com/wuseman/WGLFTPD) - This repo contains automated scripts for install glftpd, configuration files for glftpd and other script and tools for glftpd projects and other stuff that is for the warez scene
-* [Tsuk1ko/nhentai-one-key-downloader](https://github.com/Tsuk1ko/nhentai-one-key-downloader) - 一个可以一键下载nhentai本子的纯shell脚本。A pure shell script that can easily download comics from nhentai.
+* [thelinuxchoice/tweetshell](https://github.com/thelinuxchoice/tweetshell) - Multi-thread Twitter BruteForcer in Shell Script
 * [springlie/smart_switcher](https://github.com/springlie/smart_switcher) - [TERMINAL ONLY] Auto-detect proxy switcher for http, https, ftp, rsync, git protocols. It supports many tools such as wget, yum, portage, brew ...
-* [springlie/cecho](https://github.com/springlie/cecho) - Self-adapting color echo wrapper for shell.
 * [sheharyarn/dotfiles](https://github.com/sheharyarn/dotfiles) - :package: My Configs and Dotfiles
 * [raimue/ssl-cert-check](https://github.com/raimue/ssl-cert-check) - Check expiry dates of local and remote SSL certificates
-* [qindeli/NoWorkspaceShell](https://github.com/qindeli/NoWorkspaceShell) - 无WorkSpace的脚本
+* [nidhoggfgg/termux-tools-install](https://github.com/nidhoggfgg/termux-tools-install) - This is a shell script that installs most of the termux tools with one key.
+* [narbehaj/bash-backup](https://github.com/narbehaj/bash-backup) - Simple backup script for GNU/Linux servers
 * [midwire/bash.env](https://github.com/midwire/bash.env) - Bash.env is a cascading Bash environment system for those who work on different hardware and OS environments.  Similar to oh-my-zsh but for Bash, and special sauce for those who work 'ssh' on remote machines.
+* [marmelo/streaming-pt](https://github.com/marmelo/streaming-pt) - Live TV and Radio shell scripts from Portugal.
 * [MadhavBahlMD/shebang-everything](https://github.com/MadhavBahlMD/shebang-everything) - Your unofficial guidebook to shell scripting :)
 * [Madh93/conky-spotify](https://github.com/Madh93/conky-spotify) - :musical_note: Show current Spotify track in Conky (Cover, title...)
+* [littlebizzy/slickstack](https://github.com/littlebizzy/slickstack) - SlickStack is a free LEMP stack automation script written in Bash designed to enhance and simplify WordPress provisioning, performance, and security.
+* [KimDarren/git-faker](https://github.com/KimDarren/git-faker) - :ghost: You can be the best GIT-COMMITTER in the planet.
 * [jamestomasino/dotfiles](https://github.com/jamestomasino/dotfiles) - My dotfiles
 * [haxpor/aseprite-macos-buildsh](https://github.com/haxpor/aseprite-macos-buildsh) - Automated script to create latest release (either beta, or release whichever is newer) of Aseprite for macOS
-* [fishgretel/fasd](https://github.com/fishgretel/fasd) - Plugin for fish-shell to integrate fasd
+* [goodboy23/shell-script-collection](https://github.com/goodboy23/shell-script-collection) - shell脚本合集，地址：http://www.52wiki.cn/docs/shell/shell-1amsdgmu7q851
 * [er0/lolfish](https://github.com/er0/lolfish) - the most colorful fish shell prompt
 * [Drapegnik/env](https://github.com/Drapegnik/env) - :wrench: Repo for storing my environment settings, dotfiles and etc.
+* [devilbox/watcherd](https://github.com/devilbox/watcherd) - A shell daemon that will listen for directory changes and execute custom commands for each event.
 * [developer-learning/learning-kubernetes](https://github.com/developer-learning/learning-kubernetes) - Learning Kubernetes ServiceMesh Istio
-* [decors/fish-ghq](https://github.com/decors/fish-ghq) - ghq completion and keybinding for fish shell
 * [daenney/rbenv](https://github.com/daenney/rbenv) - Rbenv support plugin for fish-shell
 * [Crabbit/shell](https://github.com/Crabbit/shell) - My shell scripts.
 * [Becavalier/SHDB](https://github.com/Becavalier/SHDB) - SHDB - A simple, lightweight key-value pair db for shell in linux-like systems.
@@ -835,8 +846,8 @@ A curated list of awesome Shell frameworks, libraries and software.
 * [alphabetum/hosts](https://github.com/alphabetum/hosts) - A command line tool for managing hosts file entries.
 * [yukinying/chrome-headless-travis-build](https://github.com/yukinying/chrome-headless-travis-build) - Continuously building chrome headless shell and docker image.
 * [youyouYoung/shell](https://github.com/youyouYoung/shell) - 介绍一些有关与Bash Shell的内容。如Linux中的命令、Shell脚本的写法、Shell语言的知识。
+* [yardnsm/dotfiles](https://github.com/yardnsm/dotfiles) - :zap: Welcome to my world.
 * [tjluoma/office2011](https://github.com/tjluoma/office2011) - A shell script to (download, if necessary) and install Office:Mac 2011 and any known updates without any user intervention.
-* [thelinuxchoice/tweetshell](https://github.com/thelinuxchoice/tweetshell) - Multi-thread Twitter BruteForcer in Shell Script
 * [stevenkaras/bashfiles](https://github.com/stevenkaras/bashfiles) - My personal bashfiles - bash prompt, dotfiles, etc
 * [squidsolutions/aws-eb-shell](https://github.com/squidsolutions/aws-eb-shell) - Shell scripts for AWS ElasticBeanstalk components configuration, creation and administration
 * [sorah/gentoo-build](https://github.com/sorah/gentoo-build) - shell scripts that builds systemd based gentoo box for x86_64 platform
@@ -846,61 +857,60 @@ A curated list of awesome Shell frameworks, libraries and software.
 * [nmaster/usdanl-sr28-mysql](https://github.com/nmaster/usdanl-sr28-mysql) - A simple shell script to import the USDA National Nutrient Database (Release SR-28) into a MySQL database.
 * [muayyad-alsadi/docker-jumpshell](https://github.com/muayyad-alsadi/docker-jumpshell) - Jump-box shell for Docker - secure remote ssh into containers with ACL
 * [moll/sh-chnode](https://github.com/moll/sh-chnode) - Change between installed Node versions in your current shell.
-* [mattiabasone/tuning-primer](https://github.com/mattiabasone/tuning-primer) - MySQL performance tuning primer script (with MariaDB patch)
-* [marmelo/streaming-pt](https://github.com/marmelo/streaming-pt) - Live TV and Radio shell scripts from Portugal.
-* [KimDarren/git-faker](https://github.com/KimDarren/git-faker) - :ghost: You can be the best GIT-COMMITTER in the planet.
+* [mig1984/bashible](https://github.com/mig1984/bashible) - Simple bash DSL framework for writing shell scripts safe and agile.
+* [madcoda/dotenv-shell](https://github.com/madcoda/dotenv-shell) - Use Dotenv in everything
 * [Jaggle/Gitfool](https://github.com/Jaggle/Gitfool) - Gitfool (or Gitfull) is a shell command for you to fulfill your git commit log.
 * [iam-TJ/git-submodule-move](https://github.com/iam-TJ/git-submodule-move) - Easily move submodules within a git repository (shell script)
+* [herrbischoff/dotpr0n](https://github.com/herrbischoff/dotpr0n) - Dotfiles for macOS, FreeBSD, Linux, fish, tmux, custom functions and lots more. Peekaboo!
 * [heewa/bae](https://github.com/heewa/bae) - Emoji for the BA shell – use emoji as Environment Variables
-* [devilbox/watcherd](https://github.com/devilbox/watcherd) - A shell daemon that will listen for directory changes and execute custom commands for each event.
+* [freedev/macosx-script-boot-shutdown](https://github.com/freedev/macosx-script-boot-shutdown) - This project is useful to execute a shell script during Mac OS X boot or shutdown.
+* [fengfu/jtoolkit](https://github.com/fengfu/jtoolkit) - JToolkit是一个Java问题排查的工具集，通过集成各种Linux命令、Shell脚本、Java命令，以及各种第三方好用的工具(如VjTools、Async-profiler)，通过菜单界面和方便快捷的操作来帮助我们快速定位问题
 * [civisanalytics/iam-role-injector](https://github.com/civisanalytics/iam-role-injector) - Assumes an IAM role via awscli STS call, injecting temporary credentials into shell environment
 * [alphabetum/bindle](https://github.com/alphabetum/bindle) - A configuration management tool for your personal unix-like computer.
-* [yardnsm/dotfiles](https://github.com/yardnsm/dotfiles) - :zap: Welcome to my world.
+* [AlanBarber/jbh](https://github.com/AlanBarber/jbh) - (JBH) Jekyll Blog Helper - A shell script to help manage a jekyll weblog site
+* [adityashrm21/RaspberryPi-Packet-Sniffer](https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer) - An HTTP and HTTPS sniffing tool created using a Raspberry Pi
 * [vfhky/shell-tools](https://github.com/vfhky/shell-tools) - Useful shell script in linux.
-* [thelinuxchoice/keydroid](https://github.com/thelinuxchoice/keydroid) - Android Keylogger + Reverse Shell
 * [strawp/web-shells](https://github.com/strawp/web-shells) - Web shells for use in penetration testing
 * [shkm/vssh](https://github.com/shkm/vssh) - :zap: Fast `vagrant ssh` in the current directory.
 * [PeterDaveHello/Unitial](https://github.com/PeterDaveHello/Unitial) - 🖥  My rc / configs / dotfiles 📂
 * [perusio/nginx-spamhaus-drop](https://github.com/perusio/nginx-spamhaus-drop) - A shell script that creates a Nginx configuration for using Spamhaus DROP lists
-* [narbehaj/bash-backup](https://github.com/narbehaj/bash-backup) - Simple backup script for GNU/Linux servers
 * [mk-fg/dracut-crypt-sshd](https://github.com/mk-fg/dracut-crypt-sshd) - dracut initramfs module to start sshd on early boot to enter encryption passphrase from across the internets
-* [mig1984/bashible](https://github.com/mig1984/bashible) - Simple bash DSL framework for writing shell scripts safe and agile.
 * [Microsoft/Build-PowerShell-DSC-for-Linux](https://github.com/Microsoft/Build-PowerShell-DSC-for-Linux) - Build projects required for DSC (Desired State Configuration)
+* [mdichirico/public-shell-scripts](https://github.com/mdichirico/public-shell-scripts) - Various shell scripts for use with CentOS specifically
 * [lucapette/dotfiles](https://github.com/lucapette/dotfiles) - My configuration files
-* [littlebizzy/slickstack](https://github.com/littlebizzy/slickstack) - SlickStack is a free LEMP stack automation script written in Bash designed to enhance and simplify WordPress provisioning, performance, and security.
 * [jfcherng/Sublime-ShellScriptImproved](https://github.com/jfcherng/Sublime-ShellScriptImproved) - [Deprecated] A better ShellScript (Bash) syntax highlight for Sublime Text >= 3143
 * [isao/shell](https://github.com/isao/shell) - various scripts and support files for noodling on the command line, esp bbedit, git, etc
-* [hhstore/awesome-script](https://github.com/hhstore/awesome-script) - 常用的 shell 脚本,包括 centos, Ubuntu, Mac osx, 以及 Docker, Python 等常用软件的安装, 配置, 开发环境搭建的脚本.
-* [herrbischoff/dotpr0n](https://github.com/herrbischoff/dotpr0n) - Dotfiles for macOS, FreeBSD, Linux, fish, tmux, custom functions and lots more. Peekaboo!
+* [gitusrs/openssl-ios-build-shell-script](https://github.com/gitusrs/openssl-ios-build-shell-script) - Build openssl with shell script-only support to use on iOS, and bitcode is supported.
 * [georgetown-university/druml](https://github.com/georgetown-university/druml) - Drupal multisite management tool
-* [fengfu/jtoolkit](https://github.com/fengfu/jtoolkit) - JToolkit是一个Java问题排查的工具集，通过集成各种Linux命令、Shell脚本、Java命令，以及各种第三方好用的工具(如VjTools、Async-profiler)，通过菜单界面和方便快捷的操作来帮助我们快速定位问题
 * [denyskoch/ienv](https://github.com/denyskoch/ienv) - Improved shell environment: sane dotfiles backed by my daily work optimized for solarized theme
 * [dashaub/ARM-RStudio](https://github.com/dashaub/ARM-RStudio) - Compile RStudio for ARM Ubuntu 14.04 on Samsung Chromebook
-* [adityashrm21/RaspberryPi-Packet-Sniffer](https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer) - An HTTP and HTTPS sniffing tool created using a Raspberry Pi
+* [christianbaun/ossperf](https://github.com/christianbaun/ossperf) - A lightweight tool for analyzing the performance and data integrity of object-based storage services
+* [agilemation/Belkin-WeMo-Command-Line-Tools](https://github.com/agilemation/Belkin-WeMo-Command-Line-Tools) - Script to control the Belkin WeMo power switch, written entirely in shell and constructed out of commands that every computer should already have
+* [ZephrFish/RandomScripts](https://github.com/ZephrFish/RandomScripts) - Random Shell Scripts and other ideas I have along the way
+* [yulonghu/codedeploy](https://github.com/yulonghu/codedeploy) - shell代码部署系统
 * [virtualmin/virtualmin-install](https://github.com/virtualmin/virtualmin-install) - Shell script to perform a Virtualmin GPL or Professional installation
 * [ueokande/shvm](https://github.com/ueokande/shvm) - A Version Manager for Shells
+* [stevenbenner/srcds-service](https://github.com/stevenbenner/srcds-service) - :godmode: Run SRCDS as a service on Linux.
+* [rockyluke/docker-debian](https://github.com/rockyluke/docker-debian) - :whale: Shell script to create small docker images of Debian.
+* [jvz/psgrep](https://github.com/jvz/psgrep) - A simple little shell script to help with the "ps aux | grep" idiom.
+* [Jenking-Zhang/shell_for_ss_ssr_ssrr_kcptun_bbr](https://github.com/Jenking-Zhang/shell_for_ss_ssr_ssrr_kcptun_bbr) - A shell for Shadowsocks-libev/ShadowsocksR/ShadowsocksRR/KCPTUN/BBS-OPENVZ install
+* [idan/autoenvfish](https://github.com/idan/autoenvfish) - Directory-based environments for the Fish shell
+* [goodevilgenius/dropbox-shell](https://github.com/goodevilgenius/dropbox-shell) - A BASH script to run scripts/programs on a remote machine via Dropbox.
+* [realestate-com-au/bash-my-aws](https://github.com/realestate-com-au/bash-my-aws) - Bash functions for managing AWS resources simply and easily
+* [AdrianDC/android_development_shell_tools](https://github.com/AdrianDC/android_development_shell_tools) - Development Shell Tools - http://adriandc.github.io/android_development_shell_tools
+* [spencerwooo/dotfiles](https://github.com/spencerwooo/dotfiles) - My dotfiles, including PowerShell scripts and `.zshrc`.
+* [jamfit/icns-Creator](https://github.com/jamfit/icns-Creator) - A shell script to create full .icns files
 * [tonyseek/pyenv-up](https://github.com/tonyseek/pyenv-up) - Works with pyenv and virtualenv in a new shell.
 * [tghs/sshfav.sh](https://github.com/tghs/sshfav.sh) - A shell script for connecting to your favourite SSH locations easily.
 * [teracyhq/sphinx-deployment](https://github.com/teracyhq/sphinx-deployment) - automatic setup and deployment for sphinx docs
 * [Seitk/Xcode-Cleanup-Script](https://github.com/Seitk/Xcode-Cleanup-Script) - a shell script to cleanup Xcode cache and tmp files
-* [rockyluke/docker-debian](https://github.com/rockyluke/docker-debian) - :whale: Shell script to create small docker images of Debian.
-* [mdichirico/public-shell-scripts](https://github.com/mdichirico/public-shell-scripts) - Various shell scripts for use with CentOS specifically
 * [Madh93/nvidia-led](https://github.com/Madh93/nvidia-led) - :flashlight: Awesome effects for NVIDIA GeForce GTX LEDs
-* [jvz/psgrep](https://github.com/jvz/psgrep) - A simple little shell script to help with the "ps aux | grep" idiom.
-* [idan/autoenvfish](https://github.com/idan/autoenvfish) - Directory-based environments for the Fish shell
-* [goodevilgenius/dropbox-shell](https://github.com/goodevilgenius/dropbox-shell) - A BASH script to run scripts/programs on a remote machine via Dropbox.
-* [goodboy23/shell-script-collection](https://github.com/goodboy23/shell-script-collection) - shell脚本合集，地址：http://www.52wiki.cn/docs/shell/shell-1amsdgmu7q851
-* [freedev/macosx-script-boot-shutdown](https://github.com/freedev/macosx-script-boot-shutdown) - This project is useful to execute a shell script during Mac OS X boot or shutdown.
-* [AlanBarber/jbh](https://github.com/AlanBarber/jbh) - (JBH) Jekyll Blog Helper - A shell script to help manage a jekyll weblog site
 * [720kb/nginx-docker-container](https://github.com/720kb/nginx-docker-container) - nginx docker container :whale:
 * [nicolargo/openvpnscripts](https://github.com/nicolargo/openvpnscripts) - Shell scripts to control an OpenVPN server
 * [meetbill/shell_menu](https://github.com/meetbill/shell_menu) - 🛠 统一管理脚本框架(本框架中已含一些运维安全工具脚本)【CentOS】
-* [Jenking-Zhang/shell_for_ss_ssr_ssrr_kcptun_bbr](https://github.com/Jenking-Zhang/shell_for_ss_ssr_ssrr_kcptun_bbr) - A shell for Shadowsocks-libev/ShadowsocksR/ShadowsocksRR/KCPTUN/BBS-OPENVZ install
 * [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 * [spencerwooo/awesome-alias](https://github.com/spencerwooo/awesome-alias) - Some of my favorite aliases for my .zshrc
-* [ZephrFish/RandomScripts](https://github.com/ZephrFish/RandomScripts) - Random Shell Scripts and other ideas I have along the way
 * [superkojiman/dirtshell](https://github.com/superkojiman/dirtshell) - Provide a sort of shell-ish interface to make file directory traversal quicker and easier.
-* [stevenbenner/srcds-service](https://github.com/stevenbenner/srcds-service) - :godmode: Run SRCDS as a service on Linux.
 * [renatosilva/colormake](https://github.com/renatosilva/colormake) - Colorized build output.
 * [rainchen/git-cmd-helpers](https://github.com/rainchen/git-cmd-helpers) - a bundle of shell-aliases and shell-functions for git
 * [posva/task-logger.sh](https://github.com/posva/task-logger.sh) - :art: shell library to log tasks with nice output. Supports zsh and bash
@@ -919,9 +929,7 @@ A curated list of awesome Shell frameworks, libraries and software.
 * [spencerwoo98/awesome-alias](https://github.com/spencerwoo98/awesome-alias) - Some of my favorite aliases for my .zshrc
 * [DrewRWx/assh](https://github.com/DrewRWx/assh) - Send your shell preferences to a shared account for an SSH session.
 * [cal2195/q](https://github.com/cal2195/q) - q - vim like macro registers for your bash and zsh shell!
-* [yulonghu/codedeploy](https://github.com/yulonghu/codedeploy) - shell代码部署系统
 * [Integralist/Shell-Scripts](https://github.com/Integralist/Shell-Scripts) - Collection of custom utility shell scripts
-* [gitusrs/openssl-ios-build-shell-script](https://github.com/gitusrs/openssl-ios-build-shell-script) - Build openssl with shell script-only support to use on iOS, and bitcode is supported.
 * [chase-miller/virtualbox-snapshot-create](https://github.com/chase-miller/virtualbox-snapshot-create) - Shell script to create a virtualbox snapshot
 * [brandoconnor/nagios_commander](https://github.com/brandoconnor/nagios_commander) - A simple bash wrapper for the craptastic Nagios API
 * [appleboy/dotfiles](https://github.com/appleboy/dotfiles) - Bootstrap for your terminal on Linux or FreeBSD
@@ -938,7 +946,6 @@ A curated list of awesome Shell frameworks, libraries and software.
 * [JayBrown/minisign-misc](https://github.com/JayBrown/minisign-misc) - macOS workflows and shell scripts to verify and sign files with minisign
 * [inkarkat/todo.txt-cli-ex](https://github.com/inkarkat/todo.txt-cli-ex) - A set of extensions for todo.txt-cli, a shell script for managing your todo.txt file.
 * [GoogleCloudPlatform/solutions-google-compute-engine-cluster-for-grid-engine](https://github.com/GoogleCloudPlatform/solutions-google-compute-engine-cluster-for-grid-engine) -  Grid Engine on Compute Engine provides a shell script to manage a Compute Engine cluster along with instructions on how to install and configure Sun Grid Engine on the Compute Engine cluster
-* [agilemation/Belkin-WeMo-Command-Line-Tools](https://github.com/agilemation/Belkin-WeMo-Command-Line-Tools) - Script to control the Belkin WeMo power switch, written entirely in shell and constructed out of commands that every computer should already have
 * [fisherman/fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager.
 * [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - Unix shell, GPG-based password manager
 * [tuvistavie/fundle](https://github.com/tuvistavie/fundle) - A minimalist package manager for fish shell
