@@ -2464,6 +2464,7 @@ A curated list of awesome Shell frameworks, libraries and software.
 * [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
 * [int0x80/anti-forensics](https://github.com/int0x80/anti-forensics) - for the louise
 * [holman/spaceman-diff](https://github.com/holman/spaceman-diff) - diff images from the command line
+* [syndbg/goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 * [chuckha/goenv](https://github.com/chuckha/goenv) - Create a go environment!
 * [Kerwood/rtorrent.auto.install](https://github.com/Kerwood/rtorrent.auto.install) - Auto install script for rtorrent with Rutorrent as GUI.
 * [smurfmonitor/dns-iptables-rules](https://github.com/smurfmonitor/dns-iptables-rules) - DNS Amplification IPTABLES block lists
