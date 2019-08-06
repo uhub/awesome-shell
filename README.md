@@ -2683,4 +2683,5 @@ A curated list of awesome Shell frameworks, libraries and software.
 * [berfarah/LESS-build-sublime](https://github.com/berfarah/LESS-build-sublime) - Less build sytem for Sublime Text 2
 * [jwerle/mush](https://github.com/jwerle/mush) - Mustache templates for bash
 * [Goles/Battery](https://github.com/Goles/Battery) - Battery is a little bash script that uses Spark to display the battery status on your tmux sessions or the terminal.
+* [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 * [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. 🎉
