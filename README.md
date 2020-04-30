@@ -3,6 +3,7 @@
 A curated list of awesome Shell frameworks, libraries and software.
 
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+* [ferhatgec/scrift-lang](https://github.com/FerhatGec/scrift-lang) - Scrift is simple and fast shell project for Fegeya Fusion and all operating systems. 👨‍💻
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 * [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
 * [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
