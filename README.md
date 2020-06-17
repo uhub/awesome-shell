@@ -919,3 +919,4 @@ A curated list of awesome Shell frameworks, libraries and software.
 * [TMRJIJ/Night-Shift-on-Unsupported-Macs](https://github.com/TMRJIJ/Night-Shift-on-Unsupported-Macs) - Enable Night Shift on older Macs.
 * [youyouYoung/shell](https://github.com/youyouYoung/shell) - 介绍一些有关与Bash Shell的内容。如Linux中的命令、Shell脚本的写法、Shell语言的知识。
 * [franks42/lein-repls](https://github.com/franks42/lein-repls) - A persistent repl-server as a leiningen task/plugin "lein repls" and a lightweight shell-script client "cljsh".
+* [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for `.env` files. Written in Rust 🦀
