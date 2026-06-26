@@ -132,6 +132,7 @@ A curated list of awesome Shell frameworks, libraries and software.
 * [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
 * [swoodford/aws](https://github.com/swoodford/aws) - A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
 * [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
+* [DAFT-8/Shellter](https://codeberg.org/DAFT-8/Shellter) - A Docker-like container manager written in Shell.
 * [tclahr/uac](https://github.com/tclahr/uac) - UAC is a powerful and extensible incident response tool designed for forensic investigators, security analysts, and IT professionals. It automates the collection of artifacts from a wide range of Unix-like systems, including AIX, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris.
 * [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 * [liquanzhou/ops_doc](https://github.com/liquanzhou/ops_doc) - 运维简洁实用手册
