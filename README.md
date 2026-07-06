@@ -1196,3 +1196,4 @@ A curated list of awesome Shell frameworks, libraries and software.
 * [mxmnk/shell](https://github.com/mxmnk/shell) - shell
 * [reale/bashlets](https://github.com/reale/bashlets) - An experiment in extending the command-line interface.
 * [BeginMan/myshell](https://github.com/BeginMan/myshell) - 写的常用Shell小工具，运维小脚本等
+* [Ducksss/codex-profiles](https://github.com/Ducksss/codex-profiles) - Switch Codex CLI and Desktop accounts with isolated `CODEX_HOME` profile directories.
